@@ -11,3 +11,5 @@ recuesky/recuesky is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![Recue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recuesky&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recuesky&langs_count=10&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+
