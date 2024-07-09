@@ -10,4 +10,4 @@
 recuesky/recuesky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Recue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recuesky)](https://github.com/anuraghazra/github-readme-stats)
+[![Recue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recuesky&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
