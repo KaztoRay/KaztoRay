@@ -7,6 +7,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+### Pwnable, Webhacking, Smart Contract Hacking, Mobile Hacking, Cryptography & Deep Learning, Machine Learning
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dsph9245)](https://solved.ac/dsph9245) <br/>
 [![Recue's GitHub Stats](https://github-readme-stats.vercel.app/api?username=recuesky&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 <br>
