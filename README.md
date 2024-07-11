@@ -1,3 +1,4 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=flat&column=7)](https://github.com/recuesky/)
 
 - 👋 Hi, I’m @recuesky
 - 👀 I’m interested in ...
