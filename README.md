@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-### Webhacking, Smart Contract Hacking, Mobile Hacking, Cryptography, Pwnable, Pentesting & Development.
+### Pwnable, Reversing, Pentesting, Hardware Hacking, Cryptography, Smart Contract Hacking, Mobile Hacking, Webhacking & DeepLearning.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
 
