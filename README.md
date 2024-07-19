@@ -1,7 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=algolia&column=10)](https://github.com/recuesky/)
 
 ## 💫 Hi, I’m @recuesky, White Hacker & Security Engineer.
-  - & DeppLearning / Machine Learning Developer & ROS / Hardware Developer & Cloud Developer.
 
 -----------------------------
 
