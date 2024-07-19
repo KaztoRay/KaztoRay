@@ -4,7 +4,7 @@
 
 -----------------------------
 
-### Pwnable, Reversing, Pentesting, Hardware Hacking, Cryptography, Mobile Hacking, Webhacking, Smart Contract Hacking, Forensic, IOT Security.
+### Pwnable, Reversing, Pentesting, Hardware Hacking, Cryptography, Mobile Hacking, Webhacking, Smart Contract Hacking, Forensic, IOT Security, Artificial Intelligence Security.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
 
