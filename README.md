@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Reversing, Forensic.
+- ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Pentesting, Reversing, Forensic.
   - #### & Web / APP (Game (Unity)) Development.
 
 
