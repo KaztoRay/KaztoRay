@@ -5,7 +5,7 @@
 -----------------------------
 
 - ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Reversing, Forensic.
-  - #### Game Development & Web Development.
+  - #### & Web / APP Development.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
