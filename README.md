@@ -4,8 +4,8 @@
 
 -----------------------------
 
-- ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Pentesting, Reversing, Forensic.
-  - #### & Web / APP (Game (Unity)) Development.
+- ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Pentesting, Pwnable, Forensic.
+  - #### & Web / Game (Unity) Development.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
