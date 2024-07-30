@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Pwnable, Reversing, Forensic, Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Hardware Hacking, Cryptography, IOT Security, AI Security.
+- ### Pwnable, Reversing, Forensic, Mobile Hacking, Webhacking, Smart Contract Hacking, Cloud Security, Hardware Hacking, Cryptography, IOT Security, AI Security.
   - #### & System / Web (Front & Backend) / Game (Unity, Unreal) Programmer.
 
 
