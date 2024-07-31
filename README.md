@@ -4,8 +4,8 @@
 
 -----------------------------
 
-- ### Pwnable, Webhacking, Mobile Hacking, Forensic, Hardware Hacking, Smart Contract Hacking, Cloud Security, Cryptography.
-  - #### & System / Web (Front & Backend) / Game (Unity, Unreal) Programmer.
+- ### Pwnable, Reversing, Forensic, Hardware Hacking, IOT Hacking, Mobile Hacking, Cloud Security, Cryptography, Pentesting, AI Security.
+  - #### & System (Operator) / Game (Unity, Unreal) Programmer.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
