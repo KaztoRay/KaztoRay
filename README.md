@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Pwnable, Reversing, Forensic, Hardware Hacking, IOT Hacking, Mobile Hacking, Cloud Security, Cryptography, Pentesting, AI Security.
+- ### Pwnable, Reversing, Forensic, Hardware Hacking, IOT Hacking, Cloud Security, Cryptography, Pentesting, AI Security.
   - #### & System (Operator) / Game (Unity, Unreal) Programmer.
 
 
