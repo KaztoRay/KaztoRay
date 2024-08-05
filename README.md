@@ -1,11 +1,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=algolia&column=10)](https://github.com/recuesky/)
 
-## 💫 Hi, I’m @recuesky, White Hacker & Security Engineer & Game Programmer.
+## 💫 Hi, I’m @recuesky, White Hacker & Security Engineer & Forensic Researcher.
 
 -----------------------------
 
-- ### Pwnable, Reversing, Forensic, Hardware Hacking, IOT Hacking, Game Security(Hacking), Cryptography, Pentesting, AI Security.
-  - #### & System (Operator) / Game (Unity, Unreal) Programmer.
+- ### Pwnable, Webhacking, Mobile Hacking, Reversing, Forensic, Hardware Hacking, Cryptography, Pentesting, AI Security.
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
