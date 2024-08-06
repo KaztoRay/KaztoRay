@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Webhacking, Mobile Hacking, Smart Contract Hacking, Reversing, Forensic, Hardware Hacking, Cryptography, AI Security, Metaverse Security.
+- ### Webhacking, Mobile Hacking, Pwnable, Reversing, Forensic, Hardware Hacking, Cryptography, AI Security, Cloud Security.
 
 
 
