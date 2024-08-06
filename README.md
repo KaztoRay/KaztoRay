@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Pwnable(Rev / ARM), Webhacking, Mobile Hacking, Forensic, Pentesting, Cryptography, AI Security.
+- ### Pwnable(Rev / ARM), Webhacking, Mobile Hacking, Forensic, Smart Contract Hacking, Cryptography, AI Security.
 
 
 
