@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Webhacking, Mobile Hacking, Pwnable, Reversing, Forensic, Hardware Hacking, Cryptography, AI Security, Cloud Security.
+- ### Webhacking, Mobile Hacking, Pwnable, Reversing, Forensic, Hardware Hacking, Cryptography, AI Security.
 
 
 
