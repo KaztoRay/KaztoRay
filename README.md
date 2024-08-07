@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Reversing(ARM), Webhacking, Mobile Hacking, Smart Contract Hacking, Network Hacking, Cryptography, AI Security, Architecture Security.
+- ### Forensic, Reversing(ARM), Mobile Hacking, Webhacking, Smart Contract Hacking, Network Hacking, Cryptography, AI Security.
 
 
 
