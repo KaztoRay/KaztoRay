@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Reversing, Hardware Hacking, Mobile Hacking, Webhacking, Cryptography & Development.
+- ### Forensic, Reversing(AMD, ARM), Mobile Hacking, Webhacking, Cryptography & Development.
 
 
 
