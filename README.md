@@ -4,8 +4,8 @@
 
 -----------------------------
 
-- ### Forensic, Reversing(AMD, ARM), Mobile Hacking, Webhacking, Cryptography.
-
+- ### Forensic, Reversing(AMD, ARM), Mobile Hacking, Webhacking, Cryptography. (Main JOB)
+  - & Artificial Intelligence Development. (Sub JOB)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
