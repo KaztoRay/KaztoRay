@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Reversing, Hardware Hacking, Network Hacking, Malware Analysis, Cryptography. (Main JOB)
+- ### Forensic, Reversing, Hardware Hacking, Network Hacking, Malware Analysis, Cryptography. (Main JOB)
   - & Artificial Intelligence Development. (Sub JOB)
 
 
