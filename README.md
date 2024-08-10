@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Reversing, Malware Analysis, Network Hacking, Webhacking, Cryptography. (Main JOB)
+- ### Forensic, Reversing(AMD / ARM), Webhacking, Cryptography. (Main JOB)
   - & Web / Cloud Development. (Sub JOB)
 
 
