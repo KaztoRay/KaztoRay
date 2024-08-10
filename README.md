@@ -5,7 +5,7 @@
 -----------------------------
 
 - ### Forensic, Reversing, Malware Analysis, Network Hacking, Webhacking, Cryptography. (Main JOB)
-  - & Web & Cloud Development. (Sub JOB)
+  - & Web / Cloud Development. (Sub JOB)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
