@@ -1,11 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=algolia&column=10)](https://github.com/recuesky/)
 
-## 💫 Hi, I’m @recuesky, Forensic Researcher & Security Engineer. 💫
+## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker. 💫
 
 -----------------------------
 
-- ### Forensic, Reversing(AMD / ARM), Webhacking, Cryptography. (Main JOB)
-  - & Web / Cloud Development. (Sub JOB)
+- ### Forensic, Reversing(AMD / ARM), Pwnable, Malware Analysis, Webhacking, Network Hacking, Cryptography. 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
