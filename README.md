@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Pwnable(AMD / ARM), Malware Analysis, Webhacking, Network Hacking, Cryptography, Smart Contract Hacking. 
+- ### Forensic, Pwnable(AMD / ARM), Webhacking, Network Hacking, Cryptography, Smart Contract Hacking. 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
