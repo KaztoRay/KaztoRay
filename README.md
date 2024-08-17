@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Pwnable(AMD / ARM), Reversing, Webhacking, Malware Analysis, Cryptography. & System Development.
+- ### Forensic, Webhacking, Smart Contract Hacking, Reversing(AMD / ARM), Malware Analysis, Network Hacking, IDS/IPS Security, Cryptography. & System Development.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
