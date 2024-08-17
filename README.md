@@ -4,7 +4,7 @@
 
 -----------------------------
 
-- ### Forensic, Webhacking, Smart Contract Hacking, Reversing(AMD / ARM), Malware Analysis, Network Hacking, Cryptography, IDS/IPS Security, Hardware Security, IOT Security. & System Development.
+- ### Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Cryptography, IDS/IPS Security, IOT Hacking, Reversing. & Web Development.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
