@@ -1,10 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=algolia&column=10)](https://github.com/recuesky/)
 
-## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker / System Programmer. 💫
+## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker 💫
 
 -----------------------------
 
-- ### Forensic, Webhacking, Smart Contract Hacking, Reversing(AMD / ARM), Malware Analysis, Network Hacking, IDS/IPS Security, Hardware Security, IOT Security, Cryptography. & System Development.
+- ### Forensic, Webhacking, Smart Contract Hacking, Reversing(AMD / ARM), Malware Analysis, Network Hacking, Cryptography, IDS/IPS Security, Hardware Security, IOT Security. & System Development.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
