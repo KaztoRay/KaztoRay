@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=algolia&column=10)](https://github.com/recuesky/)
 
-## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker 💫
+## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker / Web & Cloud Programmer.  💫
 ![img](https://github.com/user-attachments/assets/9be85d74-64b2-4e3b-9e55-bb91effe01d3)
 - Forensic과 Webhacking을 주분야로 하고 있는 포렌식 연구가, 모의해킹 전문가입니다.
   - 별도로 애니메이션 / 버튜버와 음악 듣는 것을 좋아합니다.
