@@ -8,7 +8,11 @@
 
 -----------------------------
 
-- ### Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Cryptography, IDS/IPS Security, Malicious Log Analysis, Reversing, Malware Analysis. & Web / Cloud Programmer.
+- ## 제가 하는 해킹 분야들은 아래와 같습니다.
+
+  - ### Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Cryptography, IDS/IPS Security, Malicious Log Analysis, Reversing, Malware Analysis. & Web / Cloud Programmer.
+
+<div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=recuesky&theme=holi-theme)](https://git.io/streak-stats)
 
@@ -18,3 +22,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=recuesky&langs_count=10&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Recue's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=recuesky&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
