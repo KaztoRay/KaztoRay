@@ -10,7 +10,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Cryptography, IDS/IPS Security, Malicious Log Analysis, Reversing, Malware Analysis. & Web / Cloud Programmer.
+  - ### Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Cryptography, IDS/IPS Security, Malicious Log Analysis, Reversing. & Web / Cloud Programmer.
 
 <div align = "center">
 
