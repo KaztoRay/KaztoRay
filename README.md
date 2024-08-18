@@ -10,7 +10,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Pwnable(AMD, ARM), Forensic, Webhacking, Smart Contract Hacking, Cloud Hacking, Cryptography, IDS/IPS Security, Malware Analysis. & System / Web Programmer.
+  - ### Pwnable(AMD, ARM), Forensic, Webhacking, Smart Contract Hacking, Cloud Hacking, Reversing, Cryptography, IDS/IPS Security, Malware Analysis. & System / Web Programmer.
   -   #### 최대한 많은 해킹 분야들을 하려고 노력하고 있습니다.
 
 <div align = "center">
