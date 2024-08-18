@@ -1,16 +1,16 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=recuesky&theme=algolia&column=10)](https://github.com/recuesky/)
 
-## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker / Web & Cloud Programmer.  💫
+## 💫 Hi, I’m @recuesky, Forensic Researcher & White Hacker / System & Web Programmer.  💫
 ![img](https://github.com/user-attachments/assets/9be85d74-64b2-4e3b-9e55-bb91effe01d3)
 - Forensic과 Webhacking을 주분야로 하고 있는 포렌식 연구가, 모의해킹 전문가입니다.
-  - 별도로 애니메이션 / 버튜버와 음악 듣는 것을 좋아합니다.
+  - 별개로 애니메이션 / 버튜버와 음악 듣는 것을 좋아합니다.
   ![N0FTgk3jhKc9KRPzgo9yFzYoIXd3mAS03IF2dVGW7TtR4CU9NbRGpAkkfFTgvr3JdKbq_xgp4sm5f3SKDpr-AA](https://github.com/user-attachments/assets/30dae42c-c51c-4a43-bcb6-5b135e2c6349)
 
 -----------------------------
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Cryptography, IDS/IPS Security, Reversing. & Web / Cloud Programmer.
+  - ### Pwnable(AMD, ARM), Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Cryptography, IDS/IPS Security, Browser Hacking, Malware Analysis. & System / Web Programmer.
 
 <div align = "center">
 
