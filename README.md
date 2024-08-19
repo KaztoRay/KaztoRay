@@ -16,7 +16,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Pwnable, Forensic, Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Hacking, Cryptography, Firmware Analysis(Hardware Hacking), Malware Analysis, IDS/IPS Security, AI Security, Vehicle Cybersecurity, ....
+  - ### Pwnable, Forensic, Webhacking, Smart Contract Hacking, Cloud Hacking, Cryptography, Firmware Analysis(Hardware Hacking), Malware Analysis, AI Security, Vehicle Cybersecurity, ....
   -   #### 최대한 많은 해킹 분야들을 하려고 노력하고 있습니다.
 
 <div align = "center">
