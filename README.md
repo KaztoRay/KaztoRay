@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Webhacking, Forensic, Smart Contract Hacking, Mobile Hacking, Malware Analysis, Cloud Hacking, Firmware Analysis & AI Security.
+  - ### Reversing, Webhacking, Forensic, Smart Contract Hacking, Mobile Hacking, Malware Analysis, Cloud Hacking, Cryptography & AI Security.
 
 <div align = "center">
 
