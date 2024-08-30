@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Pwnable, Reversing, Forensic, Mobile Hacking, Malware Analysis, Firmware Analysis, Cryptography & AI Security.
+  - ### Pwnable, Reversing, Forensic, Webhacking, Malware Analysis, Firmware Analysis, Cryptography & AI Security.
 
 <div align = "center">
 
