@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Webhacking, Smart Contract Hacking, Forensic, Malware Analysis, Game Security, Cryptography & AI Security.
+  - ### Reversing, Webhacking, Smart Contract Hacking, Forensic, Malware Analysis, Mobile Hacking, Game Security, Cryptography & AI Security.
     - CodeEngn, Reversing.kr, Ethernaut, Capture The Ether, Webhacking.kr, Lord Of SQL Injection, Cryptohack과 같은 워게임을 풀면서 공부하고 있습니다.
 
 <div align = "center">
