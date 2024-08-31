@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Pwnable, Forensic, Webhacking, Smart Contract Hacking, Malware Analysis, Cryptography & AI Security.
+  - ### Pwnable, Forensic, Webhacking, Smart Contract Hacking, Cryptography & AI Security.
     - Pwnable.kr, Pwnable.xyz, Pwnable.tw, Lord Of SQL Injection, Ethernaut, Capture The Ether, Cryptohack 등을 주로 풀고 있습니다.
     
 <div align = "center">
