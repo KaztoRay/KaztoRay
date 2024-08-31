@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @recuesky, White Hacker & Forensic Researcher 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- Reversing과 Smart Contract Hacking 그리고 Forensic을 주분야로 하고 있는 모의해킹 전문가, 포렌식 연구가입니다.
+- Reversing과 Webhacking, Smart Contract Hacking 그리고 Forensic을 주분야로 하고 있는 모의해킹 전문가, 포렌식 연구가입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
     -------------------------------
     ![bmw-m8-coupe-onepager-sp-desktop](https://github.com/user-attachments/assets/aec81e54-34cb-46cb-9082-6298d69ac523)
@@ -12,8 +12,8 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Smart Contract Hacking, Forensic, Pwnable, Webhacking, Cryptography & AI Security.
-    - CodeEngn, Reversing.kr, Ethernaut, Capture The Ether, Pwnable.kr, Pwnable.xyz, Pwnable.tw, Webhacking.kr, Lord Of SQL Injection, Cryptohack과 같은 워게임을 풀면서 공부하고 있습니다.
+  - ### Reversing, Webhacking, Smart Contract Hacking, Forensic, Malware Analysis, Cloud Hacking, Cryptography & AI Security.
+    - CodeEngn, Reversing.kr, Ethernaut, Capture The Ether, Webhacking.kr, Lord Of SQL Injection, Cryptohack과 같은 워게임을 풀면서 공부하고 있습니다.
 
 <div align = "center">
 
