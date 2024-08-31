@@ -13,7 +13,7 @@
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
   - ### Reversing, Smart Contract Hacking, Forensic, Pwnable, Webhacking, Cryptography & AI Security.
-    - Dreamhack, CodeEngn, Reversing.kr, Ethernaut, Capture The Ether, Pwnable.kr, Pwnable.xyz, Pwnable.tw, Webhacking.kr, Lord Of SQL Injection, Cryptohack과 같은 워게임을 풀면서 공부하고 있습니다.
+    - CodeEngn, Reversing.kr, Ethernaut, Capture The Ether, Pwnable.kr, Pwnable.xyz, Pwnable.tw, Webhacking.kr, Lord Of SQL Injection, Cryptohack과 같은 워게임을 풀면서 공부하고 있습니다.
 
 <div align = "center">
 
