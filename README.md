@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonskys&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, White Hacker & Forensic Researcher. 💫
+## 💫 Hi, I’m @Laon, White Hacker & Forensic Researcher & Cryptography Researcher. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - Reversing과 Forensic을 주분야로 하고 있는 모의해킹 전문가, 정보보안 전문가입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing (Malware Analysis / Game Security), Forensic, Pwnable, Smart Contract Hacking, Cryptography, Secure Coding. & AI Security.
+  - ### Reversing (Malware Analysis / Game Security), Pwnable, Forensic, Smart Contract Hacking, Cryptography, Secure Coding. & AI Security.
     - Reversing.kr, CodeEngn, Pwnable.kr, Pwnable.xyz, Pwnable.tw, Ethernaut, Capture The Ether, Cryptohack 등을 주로 풀고 있습니다.
       - 추가로 CERT에 대해서 자료를 많이 찾아보고 있습니다.
     
