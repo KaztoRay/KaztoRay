@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing (Malware Analysis / Game Security), Webhacking (Cloud Security), Smart Contract Hacking, Hardware Hacking(Car, Scada, CPS), Mobile Hacking, IOT Hacking, Network Hacking, Cryptograph. & AI Security. + Game Development (Unity Engine)
+  - ### Reversing (Malware Analysis / Game Security), Webhacking (Cloud Security), Smart Contract Hacking, Hardware Hacking(Car, Scada, CPS), Mobile Hacking, IOT Hacking, Network Hacking, Cryptography. & AI Security. 
     
 <div align = "center">
 
