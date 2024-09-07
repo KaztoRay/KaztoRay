@@ -12,8 +12,8 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing (Malware Analysis / Game Security), Pwnable, Forensic, Webhacking, Mobile Hacking, Smart Contract Hacking, Cryptography, Secure Coding(Python, JavaScript), Car Secuirty, Scada Security. & AI Security.
-    - Reversing.kr, CodeEngn, Pwnable.kr, Pwnable.xyz, Pwnable.tw, Webhacking.kr, Lord Of SQL Injection, Ethernaut, Capture The Ether, Cryptohack 등을 주로 풀고 있습니다.
+  - ### Reversing (Malware Analysis / Game Security), Hardware Hacking(Car, Scada, CPS), Pwnable, Forensic, Network Hacking, Cryptography. & AI Security.
+    - Reversing.kr, CodeEngn, Pwnable.kr, Pwnable.xyz, Pwnable.tw, Cryptohack 등을 주로 풀고 있습니다.
     
 <div align = "center">
 
