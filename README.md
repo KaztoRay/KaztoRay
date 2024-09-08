@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @Laon, White Hacker / Security Engineer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- Reversing과 Webhacking을 주분야로 하고 있는 모의해킹 전문가, 정보보안 전문가입니다.
+- Webhacking과 Smart Contract Hacking을 주분야로 하고 있는 모의해킹 전문가, 정보보안 전문가입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
     -------------------------------
     ![bmw-m8-coupe-onepager-sp-desktop](https://github.com/user-attachments/assets/aec81e54-34cb-46cb-9082-6298d69ac523)
@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing (Malware Analysis / Game Security), Webhacking (Cloud Security), Smart Contract Hacking, Hardware Hacking(Car, Scada, CPS), Mobile Hacking, IOT Hacking, Network Hacking, Architecture Security, Cryptography. & AI Security. & ISMS-P.
+  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Cryptography, Pwnable & AI Security. & ISMS-P.
     
 <div align = "center">
 
