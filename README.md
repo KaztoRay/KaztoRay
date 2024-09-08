@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Pwnable, Network Hacking, Cryptography & AI Security. & ISMS-P.
+  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Pwnable, Cryptography & AI Security. & ISMS-P.
     
 <div align = "center">
 
