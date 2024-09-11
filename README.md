@@ -14,7 +14,7 @@
 
   - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Hyper Fabric Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Hardware Hacking(Car, Scada, CPS), Archtecture Hacking, Browser Hacking, IOT Hacking, Game Hacking, Metaverse Hacking, Forensic, Cryptography, Pentesting, Artificial Intelligence (ML / DL) Hacking.
     - 잘하진 못하지만 다양한 해킹 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
-      - 외국어로는 영어 (English), 일본어 (Japanese), 프랑스어 (French)를 공부하고 있습니다. (4개 국어를 할 수 있도록 공부하고 있습니다.)
+      - 외국어로는 영어 (English), 일본어 (Japanese), 프랑스어 (French), 독일어 (German)를 공부하고 있습니다. (4개 국어를 할 수 있도록 공부하고 있습니다.)
     
 <div align = "center">
 
