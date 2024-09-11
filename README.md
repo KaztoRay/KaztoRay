@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Hyper Fabric Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Hardware Hacking(Car, Scada, CPS), IOT Hacking, Metaverse Hacking, Forensic, Cryptography, Pentesting, Artificial Intelligence (ML / DL) Hacking.
+  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Hyper Fabric Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Hardware Hacking(Car, Scada, CPS), Archtecture Hacking, Browser Hacking, IOT Hacking, Game Hacking, Metaverse Hacking, Forensic, Cryptography, Pentesting, Artificial Intelligence (ML / DL) Hacking.
     - 잘하진 못하지만 다양한 해킹 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
     
 <div align = "center">
