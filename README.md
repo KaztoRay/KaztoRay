@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonhearts&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, White Hacker / Security Engineer. & Artificial Intelligence & Fullstack Programmer. 💫
+## 💫 Hi, I’m @Laon, White Hacker & Artificial Intelligence Programmer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - 다양한 해킹 및 인공지능, 개발 분야에 대해서 공부하고 연구하고 있는 모의해킹 전문가, 정보보안 전문가입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Hyper Fabric Hacking, Mobile Hacking, Cloud Hacking, Network Hacking, Hardware Hacking(Car, Scada, CPS), Archtecture Hacking, Browser Hacking, IOT Hacking, Game Hacking, Metaverse Hacking, Forensic, Cryptography, Pentesting, Artificial Intelligence (ML / DL) Hacking.
+  - ### Webhacking, Smart Contract Hacking, Hyper Fabric Hacking, Mobile Hacking, Cloud Hacking, Reversing, Network Hacking, Metaverse Hacking, Cryptography, Artificial Intelligence (ML / DL) Hacking.
 --------------------------
   - ### Artificial Intelligence & Fullstack Programming.
     - 잘하진 못하지만 다양한 해킹 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
