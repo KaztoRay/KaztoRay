@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Mobile Hacking, Pwnable, Reversing, Smart Contract Hacking, Hyper Fabric Hacking, Forensic, Metaverse Hacking, Cloud Hacking, Car Hacking, Scada / CPS Hacking, Pentesting, Cryptography.
+  - ### Webhacking, Mobile Hacking, Pwnable, Reversing, Smart Contract Hacking, Hyper Fabric Hacking, Forensic, Car Hacking, Scada / CPS Hacking, Pentesting, Cryptography.
     
     - 잘하진 못하지만 다양한 해킹 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
       - 외국어로는 영어 (English), 일본어 (Japanese), 프랑스어 (French), 독일어 (German)를 공부하고 있습니다. (5개 국어를 할 수 있도록 공부하고 있습니다.)
