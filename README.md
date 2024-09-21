@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonhearts&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, White Hacker & Security Researcher. 💫
+## 💫 Hi, I’m @Laon, White Hacker & Security Researcher. (Main Job) & Game Programmer. (2nd Job)💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - 다양한 취약점 분석, 해킹 및 정보보안, 개발 분야에 대해서 공부하고 연구하고 있는 모의해킹 전문가, 정보보안 전문가입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Mobile Hacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Reversing, Forensic, Artificial Intelligence Hacking, Cryptography. & Artificial Intelligence Programming, Game Programming.
+  - ### Webhacking, Mobile Hacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Reversing, Forensic, Artificial Intelligence Hacking, Cryptography. & Game Programming.
     
     - 잘하진 못하지만 다양한 해킹 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
       - 외국어로는 영어 (English), 일본어 (Japanese), 프랑스어 (French), 독일어 (German)를 공부하고 있습니다. (5개 국어를 할 수 있도록 공부하고 있습니다.)
