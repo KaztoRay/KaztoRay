@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonhearts&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, White Hacker & Security Researcher. (Main Job) & Game Programmer. (2nd Job)💫
+## 💫 Hi, I’m @Laon, White Hacker & Security Researcher. (Main Job) & Game & Artificial Intelligence Programmer. (2nd Job)💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - 다양한 취약점 분석, 해킹 및 정보보안, 게임 개발 분야에 대해서 공부하고 연구하고 있는 모의해킹 전문가, 보안 개발자, 게임 개발자입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
