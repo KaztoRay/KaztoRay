@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonhearts&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, White Hacker / Security Vunerability lResearcher & Security Consultant. (Main Job) & Blockchain & Artificial Intelligence Programmer. (2nd Job)💫
+## 💫 Hi, I’m @Laon, White Hacker / Security Vunerability Researcher & Security Consultant.💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 취약점 분석, 해킹 및 정보보안, 다양한 개발 분야에 대해서 공부하고 연구하고 있는 모의해킹 전문가, 블록체인 / 인공지능 개발자입니다.
+- 다양한 취약점 분석, 해킹 및 정보보안 분야에 대해서 공부하고 연구하고 있는 모의해킹 전문가, 보안 컨설턴트입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
     -------------------------------
     ![bmw-m8-coupe-onepager-sp-desktop](https://github.com/user-attachments/assets/aec81e54-34cb-46cb-9082-6298d69ac523)
