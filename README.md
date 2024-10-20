@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @Laon, Forensic Researcher, Security Consultant,  White Hacker / Security Vulnerability Researcher. & ROS2 (Robot), Artificial Intelligence Programmer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 포렌식 연구, 취약점 분석, 해킹 및 정보보안 분야에 대해서 공부하고 연구하고 있는 모의해킹 전문가, 보안 컨설턴트입니다.
+- 다양한 포렌식 연구, 취약점 분석, 해킹 및 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연규가, 보안 컨설턴트입니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
     -------------------------------
     ![bmw-m8-coupe-onepager-sp-desktop](https://github.com/user-attachments/assets/aec81e54-34cb-46cb-9082-6298d69ac523)
@@ -12,7 +12,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Mobile Hacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Reversing, Pwnable, Forensic, Network Hacking, IOT Hacking, Cryptography, Artificial Intelligence Hacking (ML / DL / LLM). & ISMS-P
+  - ### Forensic, Webhacking, Mobile Hacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Reversing, Pwnable, Network Hacking, IOT Hacking, Cryptography, Artificial Intelligence Hacking (ML / DL / LLM). & ISMS-P
     
     - 잘하진 못하지만 다양한 해킹 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
       - 외국어로는 영어 (English), 일본어 (Japanese)를 공부하고 있습니다. (3개 국어를 할 수 있도록 공부하고 있습니다.)
