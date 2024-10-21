@@ -1,9 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonhearts&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, Forensic Researcher, White Hacker (Security Consultant). & BlockChain Programmer. 💫
+## 💫 Hi, I’m @Laon, Forensic Researcher, White Hacker (Security Consultant). & Security Programmer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 포렌식 연구, 보안 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연구가, 보안 컨설턴트 (화이트 해커)이며, 개발 부분으로는 블록체인 개발에 관심이 많습니다.
-  - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
+- 다양한 포렌식 연구, 보안 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연구가, 보안 컨설턴트 (화이트 해커)입니다.
     -------------------------------
     ![bmw-m8-coupe-onepager-sp-desktop](https://github.com/user-attachments/assets/aec81e54-34cb-46cb-9082-6298d69ac523)
     ------------------------------------
@@ -12,7 +11,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Forensic, Reversing, Webhacking, Mobile Hacking, Web3 Hacking(Smart Contracts, Hyperledger), Network Hacking, Cryptography. & ISMS-P
+  - ### Forensic, Reversing, Webhacking, Mobile Hacking, Network Hacking, Cryptography. & ISMS-P
     
     - 잘하진 못하지만 다양한 보안 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
       - 외국어로는 영어 (English), 일본어 (Japanese)를 공부하고 있습니다. (3개 국어를 할 수 있도록 공부하고 있습니다.)
