@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @Laon, Forensic Researcher, White Hacker (Security Consultant). & BlockChain / Operating System Programmer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 포렌식 연구, 보안 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연구가, 보안 컨설턴트 (화이트 해커)이며, 개발 부분으로는 블록체인 개발이나 운영체제 개발에 관심이 많습니다.
+- 다양한 포렌식 연구, 보안 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연구가, 보안 컨설턴트 (화이트 해커)이며, 개발 부분으로는 블록체인 개발이나 운영체제 개발 및 분석에 관심이 많습니다.
   - 별개로 애니메이션 / 자동차와 음악 듣는 것을 좋아합니다.
     -------------------------------
     ![bmw-m8-coupe-onepager-sp-desktop](https://github.com/user-attachments/assets/aec81e54-34cb-46cb-9082-6298d69ac523)
