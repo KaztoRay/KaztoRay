@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Forensic, Reversing, Malware Analysis, Network Hacking, Artificial Intelligence Security, Cloud Security, Cryptography.
+  - ### Forensic, Reversing, , Pwnable, Malware Analysis, Network Hacking, Artificial Intelligence Security, Cloud Security, Cryptography.
     
     - 잘하진 못하지만 다양한 보안 분야를 꾸준히 다양하게 접하고 공부하고 있습니다.
       - 외국어로는 영어 (English), 일본어 (Japanese)를 공부하고 있습니다. (3개 국어를 할 수 있도록 공부하고 있습니다.)
