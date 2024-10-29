@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @Laon, Forensic Researcher, Security Researcher.
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 포렌식 연구, 리버싱 (역공학) 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연구가, 화이트 해커 (정보보안 전문가) 입니다.
+- 다양한 포렌식 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 포렌식 연구가, 정보보안 전문가 입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Forensic, Malware Analysis, Network Hacking, Smart Contract Hacking, Artificial Intelligence Security, Cryptography. & Development.
+  - ### Forensic, Malware Analysis, Network Hacking, Artificial Intelligence Security, Smart Contract Hacking, Cryptography. & Development.
     
 <div align = "center">
 
