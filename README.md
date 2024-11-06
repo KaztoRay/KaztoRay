@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Forensic, Malware Analysis, Network Hacking, Mobile Hacking, Artificial Intelligence Security, Cryptography.
+  - ### Forensic, Malware Analysis, Network Hacking, Mobile Hacking, Webhacking, Smart Contract Hacking, Artificial Intelligence Security, Cryptography.
     
 <div align = "center">
 
