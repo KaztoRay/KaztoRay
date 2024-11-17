@@ -1,12 +1,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Laonhearts&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Laon, Malware Analysis, Forensic Researcher, Security Researcher.
+## 💫 Hi, I’m @Laon, Malware Analysis, Forensic (Security) Researcher.
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 악성코드 분석과 포렌식 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 악성코드 분석가, 포렌식 연구가, 화이트해커 입니다.
+- 다양한 악성코드 분석과 포렌식 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 악성코드 분석가, 포렌식 연구가 입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing (Malware Analysis), Forensic (Network), Artificial Intelligence Security, Pwnable, Cryptography.
+  - ### Reversing (Malware Analysis), Forensic (Network, Memory, Systems, ...), Artificial Intelligence Security, Cryptography.
     
 <div align = "center">
 
