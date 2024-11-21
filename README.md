@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Axi0n1ze&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Axi0n1ze, Malware Analysis, Forensic (Security) Researcher.
+## 💫 Hi, I’m @Axi0n1ze, Malware Analysis, Forensic Researcher, White Hacker, Security Software Programmer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - 다양한 악성코드 분석과 포렌식 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 악성코드 분석가, 포렌식 연구가 입니다.
 
