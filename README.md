@@ -8,7 +8,7 @@
 
   - ### Reversing (Malware Analysis), Forensic, Pwnable (Kernel Exploit), Webhacking, Mobile Hacking, Smart Contract Hacking, Fuzzing, Artificial Intelligence Security, CERT Research.
  
-  - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 취약점 분석 연구에 적용하려고 노력하고 있습니다. 
+    - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 취약점 분석 연구에 적용하려고 노력하고 있습니다. 
     
 <div align = "center">
 
