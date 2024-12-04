@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing (Malware Analysis), Forensic, Pwnable, Artificial Intelligence Security.
+  - ### Reversing, Forensic, Pwnable, Artificial Intelligence Security, Cryptography.
  
     - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 포렌식 연구 및 보안 소프트웨어 개발에 적용하려고 노력하고 있습니다. 
     
