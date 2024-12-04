@@ -1,14 +1,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Axi0n1ze&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @Axi0n1ze, Malware Analysis, Forensic Researcher. 💫
+## 💫 Hi, I’m @Axi0n1ze, Malware Analysis, Forensic Researcher, Security Developer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 악성코드 분석과 포렌식 기술 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 악성코드 분석가, 포렌식 연구가 입니다.
+- 다양한 악성코드 분석과 포렌식 기술 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 악성코드 분석가, 포렌식 연구가, 보안 소프트웨어 개발자 입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
   - ### Reversing (Malware Analysis), Forensic, Pwnable, Artificial Intelligence Security.
  
-    - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 포렌식 연구에 적용하려고 노력하고 있습니다. 
+    - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 포렌식 연구 및 보안 소프트웨어 개발에 적용하려고 노력하고 있습니다. 
     
 <div align = "center">
 
