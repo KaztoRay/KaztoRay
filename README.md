@@ -8,7 +8,7 @@
 
   - ### Reversing, Forensic, Webhacking, Smart Contract Hacking, Mobile Hacking, CERT (Computer Emergency Response Team) Research, Artificial Intelligence Security, Cryptography. & Security Development
  
-    - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 포렌식 연구 및 보안 소프트웨어 개발에 적용하려고 노력하고 있습니다. 
+    - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 악성코드 분석, 취약점 분석 연구, 포렌식 연구 및 보안 소프트웨어 개발에 적용하려고 노력하고 있습니다. 
     
 <div align = "center">
 
