@@ -2,11 +2,12 @@
 
 ## 💫 Hi, I’m @Axi0n1ze, White Hacker, Pentester, OSINT, Malware Analysis, Forensic Researcher, Security Researcher, Security Developer. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 악성코드 분석과 포렌식 기술 연구와 같은 정보보안 분야에 대해서 공부하고 연구하고 있는 화이트해커 (모의 해킹 전문가), 악성코드 분석가, 보안 연구원, 보안 소프트웨어 개발자 입니다.
+- 다양한 취약점 및 악성코드 분석과 포렌식 기술 연구와 같은 다양한 정보보안 분야에 대해서 공부하고 연구하고 있는 화이트해커 (모의 해킹 전문가), 악성코드 분석가, 보안 연구원, 보안 소프트웨어 개발자 입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Artificial Intelligence Security, Pentesting, OSINT, Reversing, Malware Analysis, Forensic, Cryptography. & Security Development.
+  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Artificial Intelligence Security, Pentesting, OSINT, Reversing, Pwnable, Malware Analysis, Forensic, Cryptography, Financial Security, Car Security, Aviation Security
+. & Security Development.
  
     - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 취약점 분석 및 모의 침투 솔루션 및 대응 방안 분석, 보안 취약점 자동화 탐지 연구 및 보안 소프트웨어 개발에 적용하려고 노력하고 있습니다. 
     
