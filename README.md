@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Artificial Intelligence Security, Pentesting, OSINT, Pwnable, Cryptography. & Security Development.
+  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Artificial Intelligence Security, Pentesting, OSINT, Reversing, Malware Analysis, Cryptography. & Security Development.
  
     - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 취약점 분석 및 모의 침투 솔루션 및 대응 방안 분석, 보안 취약점 자동화 탐지 연구 및 보안 소프트웨어 개발에 적용하려고 노력하고 있습니다. 
     
