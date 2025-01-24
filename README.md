@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @Laonhearts, White Hacker & Artificial Intelligence Programmer . 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 Web / Web3 / Application 취약점 분석과 인공지능 개발에 대해서 공부하고 연구하고 있는 화이트해커 & 인공지능 프로그래머입니다.
+- 다양한 Web / Web3 / Application 취약점 분석과 악성코드 분석, 포렌식 및 각종 보안 연구, 인공지능 개발에 대해서 공부하고 연구하고 있는 화이트해커 & 인공지능 프로그래머입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
