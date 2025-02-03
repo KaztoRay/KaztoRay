@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @Laonhearts, White Hacker & Artificial Intelligence Programmer . 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 다양한 취약점 분석과 인공지능 개발에 대해서 공부하고 연구하고 있는 화이트해커 & 인공지능 프로그래머입니다.
+- 다양한 취약점 분석과 보안 인공지능 개발에 대해서 공부하고 연구하고 있는 화이트해커 & 보안 인공지능 프로그래머입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Pwnable, CERT, Web / Web3 Hacking, Mobile Hacking, IOT Hacking, Network Hacking, Artificial Intelligence Security, (Machine Learning, LLM) Cryptography. 
+  - ### Web Hacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Artificial Intelligence Security (Machine Learning, LLM), Pentesting, Cryptography. 
  
   - #### 최대한 많은 보안 분야에 대해서 공부하고 이를 취약점 분석 및 모의 침투 솔루션 및 대응 방안 분석, 보안 취약점 자동화 탐지 연구 및 인공지능 개발에 적용하려고 노력하고 있습니다. 
     
