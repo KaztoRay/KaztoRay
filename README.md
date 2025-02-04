@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, IOT Hacking, Pentesting, Artificial Intelligence Security (Machine Learning, LLM), , Cryptography. 
+  - ### Webhacking, Reversing, Malware Analysis, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, IOT Hacking, Pentesting, Artificial Intelligence Security (Machine Learning, LLM), , Cryptography. 
      
 <div align = "center">
 
