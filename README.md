@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Malware Analysis, Spear Phishing Analysis, Anti Shell Analysis, Forensic (CERT), Computer Antivirus Software Development, Smart Contract Hacking, Artificial Intelligence Security (Machine Learning, LLM).
+  - ### Reversing, Malware Analysis, Spear Phishing Analysis, Anti Shell Analysis, Forensic (CERT), Computer Antivirus Software Development, Artificial Intelligence Security (Machine Learning, LLM).
      
 <div align = "center">
 
