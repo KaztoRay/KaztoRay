@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Pwnable, Malware Analysis, MITRE ATT&CK & Fileless Attack Analysis, Anti Shell Analysis, Forensic (CERT, Network), Computer Antivirus Software Development, Security Architecture / Protocol Analysis, Rootkit Analysis, Security Defence Research, Artificial Intelligence Security (Machine Learning, LLM).
+  - ### Reversing, Pwnable, Malware Analysis, MITRE ATT&CK & Fileless Attack Analysis, Anti Shell Analysis, Forensic (CERT, Network), Computer Antivirus Software Development, Security Architecture / Protocol Analysis, Rootkit Analysis, Smart Contract Hacking, Artificial Intelligence Security (Machine Learning, LLM).
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raygrants&theme=holi-theme)](https://git.io/streak-stats)
