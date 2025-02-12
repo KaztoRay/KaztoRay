@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Malware Analysis, MITRE ATT&CK Analysis, Anti Shell Analysis, Forensic (CERT, Network), Computer Antivirus Software Development, Security Architecture / Protocol Analysis, Artificial Intelligence Security (Machine Learning, LLM).
+  - ### Reversing, Malware Analysis, MITRE ATT&CK Analysis, Forensic (CERT, Network), Computer Antivirus Software Development, Network Security, Artificial Intelligence Security (Machine Learning, LLM).
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
