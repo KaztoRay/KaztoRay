@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raygrant&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, White Hacker & Security Artificial Intelligence Programmer . 💫
+## 💫 Hi, I’m @KaztoRay, White Hacker & Security Artificial Intelligence Security Researcher . 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 악성코드 분석과 컴퓨터 백신 프로그램 개발, 보안 인공지능 개발에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 보안 인공지능 프로그래머입니다.
+- 악성코드 분석과 컴퓨터 백신 프로그램 개발, 보안 인공지능 개발에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 인공지능 보안 전문가입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
