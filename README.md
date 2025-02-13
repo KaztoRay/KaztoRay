@@ -9,7 +9,7 @@
   - ### Reversing, Forensic, Malware Analysis, MITRE ATT&CK Analysis, Shell Code Analysis, Network Hacking, Windows Security Development, Rootkit Analysis, BlockChain Security, Artificial Intelligence Security.
  
 - ## 제가 다루는 프로그래밍 언어는 아래와 같습니다.
-  - ### C Language, C++, C#, Rust, Python, Perl, Assembly, Powershell Script, ShellScript, VBScript,.... 등 리버싱과 연관된 언어를 주로 공부하고 있습니다. 
+  - ### C Language, C++, C#, Rust, Python, Solidity, Perl, Assembly, Powershell Script, ShellScript, VBScript,.... 등 리버싱과 연관된 언어를 주로 공부하고 있습니다. 
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
