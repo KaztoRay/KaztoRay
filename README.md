@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, Security Researcher & Malware Analyst . 💫
+## 💫 Hi, I’m @KaztoRay, Malware Analyst & Security Researcher. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - 악성코드 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 화이트해커입니다.
 
