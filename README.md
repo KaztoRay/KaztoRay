@@ -9,10 +9,8 @@
   - ### Reversing, Forensic, Malware Analysis, MITRE ATT&CK Analysis, Shell Code Analysis, Network Hacking, Windows Security Development, Rootkit Analysis, BlockChain Security, Artificial Intelligence Security.
  
 - ## 제가 다루는 프로그래밍 언어는 아래와 같습니다.
-  - ### C Language, C++, C#, Rust, Python, Solidity, Perl, Assembly, Powershell Script, ShellScript, VBScript,.... 등 리버싱과 연관된 언어를 주로 공부하고 있습니다.
-
- 
- [C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+  - ### C Language, C++, C#, Rust, Python, Solidity, Perl, Assembly, Powershell Script, ShellScript, VBScript,.... 등 리버싱과 연관된 언어를 주로 공부하고 있습니다
+    https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
 <div align = "center">
 
