@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, Malware Analysis, MITRE ATT&CK Analysis, Shell Code Analysis, Network Hacking, Windows Security Development, Rootkit Analysis, Game Hacking, Metaverse Security, Scada (PLC (Programmable Logic Controller)) Security, Pwnable.
+  - ### Reversing, Forensic, Malware Analysis, MITRE ATT&CK Analysis, Shell Code Analysis, Network Hacking, Windows Security Development, Rootkit Analysis, Game Hacking, Metaverse Security, Scada (PLC (Programmable Logic Controller)) Security, Artificial Inteligence Security.
  
 - ## 제가 다루는 프로그래밍 언어는 아래와 같습니다.
   - ### C, C++, C#, F#, Visual Basic, Rust, Python, Perl, Lua, Assembly, Powershell Script, ShellScript,.... 등 리버싱과 연관된 언어를 주로 공부하고 있습니다
