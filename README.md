@@ -1,15 +1,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, White Hacker & Malware Analyst & Security Researcher. 💫
+## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
 - 악성코드 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 정보보안 전문가입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, Malware Analysis, Network Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security.
-- ## 제가 다루는 프로그래밍 언어는 아래와 같습니다.
-  - ### C, C++, C#, Rust, Python, Perl, Assembly, Powershell, ShellScript,.... 등 리버싱과 연관된 언어를 주로 공부하고 있습니다
-
+  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security.
+    
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
