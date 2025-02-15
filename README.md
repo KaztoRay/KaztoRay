@@ -2,13 +2,13 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 취약점 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 화이트해커 & 악성코드 분석가입니다.
+- 취약점 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 화이트해커 & 정보보안 컨설턴트입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Reversing, Smart Contract Hacking, Malware Analysis, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography, Network Hacking,...
+  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Artificial Intelligence Security, Cryptography, Network Hacking,...
   - ### 제가 공부하고 있는 프로그래밍 언어들은 아래와 같습니다.
-    - #### C, C++, Solidity, Python, Perl, Rust, Assembly, HTML, CSS, JavaScript, PHP, ... 등 해킹과 관련된 언어들을 주로 공부하고 있습니다.
+    - #### Solidity, Python, Perl, Lua, HTML, CSS, JavaScript, PHP, Java, Ruby, TypeScript, Swift, Kotlin... 등 웹해킹과 관련된 언어들을 주로 공부하고 있습니다.
     
 <div align = "center">
 
