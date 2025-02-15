@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 취약점 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 화이트해커 & 정보보안 전문가입니다.
+- 취약점 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 정보보안 전문가입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, Webhacking, Mobile Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography, Network Hacking.
+  - ### Malware Analysis, Reversing, Forensic, Shellcode Analysis, MITRE ATT&CK Analysis, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography, Network Hacking,...
     
 <div align = "center">
 
