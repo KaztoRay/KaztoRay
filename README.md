@@ -8,7 +8,7 @@
 
   - ### Malware Analysis, Reversing, Forensic, Shellcode Analysis, MITRE ATT&CK Analysis, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography, Network Hacking,...
   - ### 제가 공부하고 있는 프로그래밍 언어들은 아래와 같습니다.
-    - #### C, C++, C#, Visual Basic, Python, Perl, Rust, Assembly, Powershell, ShellScript,...  
+    - #### C, C++, C#, Visual Basic, Python, Perl, Rust, Assembly, Powershell, ShellScript, VBScript, ... 등 리버싱과 관련된 언어들을 주로 공부하고 있습니다.
     
 <div align = "center">
 
