@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Mobile Hacking, Network Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography.
+  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Mobile Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography.
     
 <div align = "center">
 
