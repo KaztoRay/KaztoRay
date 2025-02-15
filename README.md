@@ -8,7 +8,7 @@
 
   - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Artificial Intelligence Security, Cryptography, Network Hacking,...
   - ### 제가 공부하고 있는 프로그래밍 언어들은 아래와 같습니다.
-    - #### Solidity, Python, Perl, Lua, HTML, CSS, JavaScript, PHP, Java, Ruby, TypeScript, Swift, Kotlin... 등 웹해킹과 관련된 언어들을 주로 공부하고 있습니다.
+    - #### Python, Solidity, Perl, Lua, HTML, CSS, JavaScript, PHP, Java, Ruby, TypeScript, Swift, Kotlin,... 등 웹해킹과 관련된 언어들을 주로 공부하고 있습니다.
     
 <div align = "center">
 
