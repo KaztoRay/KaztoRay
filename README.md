@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Reversing, Forensic, Smart Contract Hacking, Mobile Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography, Network Hacking,...
+  - ### Webhacking, Reversing, Smart Contract Hacking, Mobile Hacking, Game Hacking, Scada (PLC (Programmable Logic Controller)) Security, Artificial Intelligence Security, Cryptography, Network Hacking,...
   - ### 제가 공부하고 있는 프로그래밍 언어들은 아래와 같습니다.
     - #### C, C++, C#, Visual Basic, Python, Perl, Rust, Assembly, Java, HTML, CSS, JavaScript, PHP, Powershell, ShellScript, VBScript, ... 등 해킹과 관련된 언어들을 주로 공부하고 있습니다.
     
