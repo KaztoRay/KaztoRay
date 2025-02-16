@@ -6,9 +6,9 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ###  Pwnable, Reversing, Webhacking, Smart Contract Hacking, Mobile Hacking, OSINT, Cloud Hacking, Fuzzing Test, Malware Analysis, Artificial Intelligence Security, Cryptography, Network Hacking,...
+  - ###  Pwnable, Reversing, OSINT, Fuzzing Test, Malware Analysis, Forensic, MITRE ATT&CK, Artificial Intelligence Security, Cryptography, Network Hacking,...
   - ### 제가 공부하고 있는 프로그래밍 언어들은 아래와 같습니다.
-    - #### C, C++, C#, Rust, Visual Basic, Perl, Lua, Java, Python, Solidity, HTML, CSS, JavaScript, PHP, Ruby, TypeScript, Swift, Kotlin,... 등을 주로 공부하고 있습니다.
+    - #### C, Assembly, C++, C#, Rust, Visual Basic, Perl, Lua, Python, Powershell, ShellScript, .... 등을 주로 공부하고 있습니다.
     
 <div align = "center">
 
