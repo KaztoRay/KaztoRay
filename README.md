@@ -8,7 +8,7 @@
 
   - ###  Pwnable, Reversing, Webhacking, Smart Contract Hacking, Mobile Hacking, OSINT, Cloud Hacking, Artificial Intelligence Security, Cryptography, Network Hacking,...
   - ### 제가 공부하고 있는 프로그래밍 언어들은 아래와 같습니다.
-    - #### Java, Python, Solidity, HTML, CSS, JavaScript, PHP, Ruby, TypeScript, Swift, Kotlin,... 등 웹해킹과 관련된 언어들을 주로 공부하고 있습니다.
+    - #### C, C++, C#, Rust, Visual Basic, Perl, Lua, Java, Python, Solidity, HTML, CSS, JavaScript, PHP, Ruby, TypeScript, Swift, Kotlin,... 등을 주로 공부하고 있습니다.
     
 <div align = "center">
 
