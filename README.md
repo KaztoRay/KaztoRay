@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, OSINT, Fuzzing Test, Malware Analysis, Forensic, MITRE ATT&CK, Artificial Intelligence Security, Webhacking, Mobile Hacking, Network Hacking,...
+  - ### Webhacking, Reversing, Mobile Hacking, OSINT, Fuzzing Test, Malware Analysis, Forensic, MITRE ATT&CK, Artificial Intelligence Security, Network Hacking,...
     
 <div align = "center">
 
