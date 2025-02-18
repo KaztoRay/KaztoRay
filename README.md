@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Pwnable, Reversing, Webhacking, Mobile Hacking, Smart Contract Hacking, Fuzzing Test, Malware Analysis, Game Hacking, Forensic, MITRE ATT&CK, Artificial Intelligence Security, LLM Hacking, Network Hacking.
+  - ### Reversing, Forensic, MITRE ATT&CK, Webhacking, Malware Analysis, Mobile Hacking, Smart Contract Hacking, Artificial Intelligence Security, Network Hacking.
     
 <div align = "center">
 
