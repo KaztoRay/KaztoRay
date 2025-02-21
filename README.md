@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, Pwnable, Webhacking, Mobile Hacking, Smart Contract Hacking, MITRE ATT&CK, Malware Analysis, ShellCode Analysis, FileLess Attack Analysis, Anti File Analysis, Secuirty Architecture, Artificial Intelligence Security, Network Hacking.
+  - ### Reversing, Forensic, Pwnable, MITRE ATT&CK, Malware Analysis, ShellCode Analysis, FileLess Attack Analysis, Anti File Analysis, Fuzzing Test, Secuirty Architecture, Artificial Intelligence Security, Network Hacking.
     
 <div align = "center">
 
@@ -20,4 +20,5 @@
 [![Laon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaztoRay&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+ 
  
