@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @KaztoRay, Malware Analyst & Security Researcher. 💫
 ![img](https://github.com/user-attachments/assets/c4acc5f3-f770-4d9a-9079-7f6ee0eebc35)
-- 악성코드 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 정보보안 컨설턴트입니다.
+- 악성코드 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 침해사고 분석가입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
