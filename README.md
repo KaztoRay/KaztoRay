@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, MITRE ATT&CK, Malware Analysis, ShellCode Analysis, FileLess Attack Analysis, Web Fuzzing Test, Secuirty Architecture, Game Hacking, CERT Artificial Intelligence Security, Network Hacking, Cryptography.
+  - ### Reversing, Forensic, Financial Security, MITRE ATT&CK, Malware Analysis, ShellCode Analysis, FileLess Attack Analysis, Web Fuzzing Test, Secuirty Architecture, Game Hacking, CERT Artificial Intelligence Security, Network Hacking, Cryptography.
     
 <div align = "center">
 
