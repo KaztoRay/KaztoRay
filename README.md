@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, Web & Mobile Hacking, Mobile Forensic, MITRE ATT&CK, Malware Analysis, FileLess Attack Analysis, CERT, Artificial Intelligence Security, Network Hacking, Financial Security, ISMS-P.
+  - ### Reversing, Forensic, Mobile Hacking, Mobile Forensic, MITRE ATT&CK, Malware Analysis, FileLess Attack Analysis, CERT, Artificial Intelligence Security, Network Hacking, Financial Security, ISMS-P.
     
 <div align = "center">
 
