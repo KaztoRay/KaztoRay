@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Malware Analysis, Forensic, Mobile Forensic, Network Forensic, Windows System Security, Artificial Intelligence Security, Cryptography, Cuckoo SandBox, MITRE ATT&CK, ISMS-P.
+  - ### Reversing, Malware Analysis, Forensic, Mobile Forensic, Network Forensic, Cuckoo SandBox Malware Analysis, MITRE ATT&CK Analysis, Zerotrust Network, Artificial Intelligence Security, Cryptography, ISMS-P.
     
 <div align = "center">
 
