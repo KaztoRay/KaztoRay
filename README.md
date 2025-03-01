@@ -9,7 +9,7 @@
   - ### Reversing, Malware Analysis, Forensic, Cuckoo SandBox, MITRE ATT&CK Analysis, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
-  - #### C, C++, Rust, Python, C#, VB.net, F#, Assembly, (Power)ShellScript, Yara rules.
+  - #### C, C++, Rust, Python, Perl, Assembly, PowerShell, ShellScript, Yara rules.
     
     
 <div align = "center">
