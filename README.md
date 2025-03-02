@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Malware Analysis, Forensic, Cuckoo SandBox, MITRE ATT&CK Analysis, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
+  - ### Reversing, Malware Analysis, Forensic, Yara, Cuckoo SandBox, MITRE ATT&CK Analysis, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
   - #### C, Assembly, VB.net, C#, Python, Perl, Lua, Ruby, PowerShell, ShellScript, Yara rules.
