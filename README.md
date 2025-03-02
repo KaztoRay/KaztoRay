@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Reversing, Forensic, Yara, Zerotrust Network, Artificial Intelligence Security.
+  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Forensic, Yara, Zerotrust Network, Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
   - #### JavaScript, HTML, CSS, PHP, Java, Solidity, Swift, Python, Perl, Ruby, Go, C, PowerShell, ShellScript, Assembly, Yara rules.
