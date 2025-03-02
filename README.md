@@ -1,12 +1,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, Malware Analyst & Security Researcher. 💫
+## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫
 
-- 악성코드 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 침해사고 분석가입니다.
+- 악성코드 분석과 다양한 보안 관련 내용에 대해서 공부하고 연구하고 있는 화이트 해커 & 침해사고 분석가입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Forensic, Yara, Zerotrust Network, Artificial Intelligence Security.
+  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Reversing, Forensic, Yara, Zerotrust Network, Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
   - #### JavaScript, HTML, CSS, PHP, Java, Solidity, Swift, Python, Perl, C, PowerShell, ShellScript, Assembly, Yara rules.
