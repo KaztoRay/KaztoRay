@@ -6,8 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Cloud Hacking, Artificial Intelligence Security, Malware Analysis, Forensic, CERT.
-    
+  - ### Reversing, Pwnable, Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Cloud Hacking, Malware Analysis, Forensic, CERT, Yara, Cuckoo SandBox, MITRE ATT&CK Analysis, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
     
 <div align = "center">
 
