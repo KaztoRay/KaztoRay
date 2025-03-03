@@ -10,7 +10,7 @@
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
   - #### C, JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Swift, Kotlin, Perl, Ruby, Go, TypeScript, Yara rules.
-    -  주로 리버싱과 포렌식에 관련된 언어들을 다루고 공부하고 있습니다. 
+    -  주로 웹해킹과 모바일 해킹에 관련된 언어들을 다루고 공부하고 있습니다. 
     
     
 <div align = "center">
