@@ -9,7 +9,7 @@
   - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Cloud Hacking, Forensic, CERT, Snort, Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
-  - #### JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Swift, Kotlin, Perl, Ruby, Go, TypeScript, C, Yara rules.
+  - #### JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Swift, Kotlin, Perl, Ruby, Go, TypeScript, C#, Yara rules.
     -  주로 웹해킹과 모바일 해킹에 관련된 언어들을 다루고 공부하고 있습니다. 
     
     
