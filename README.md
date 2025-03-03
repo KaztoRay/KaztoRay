@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Malware Analyst. 💫
 
-- 다양한 보안 취약점과 악성코드 분석에 대해서 공부하고 연구하고 있는 화이트 해커 & 악성코드 분석가입니다.
+- 다양한 보안 취약점과 악성코드 분석에 대해서 공부하고 연구하고 있는 화이트 해커 & 침해사고 분석가입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Cloud Hacking, Malware Analysis, Forensic, Artificial Intelligence Security.
+  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Cloud Hacking, Forensic, CERT, Snort, Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
   - #### C, JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Swift, Kotlin, Perl, Ruby, Go, TypeScript, Yara rules.
