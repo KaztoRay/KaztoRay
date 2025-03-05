@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Cybersecurity Consultant. 💫
 
-- 다양한 보안 취약점과 침해사고 분석에 대해서 공부하고 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
+- 다양한 보안 취약점과 침해사고 분석에 대해서 공부하고 연구하고 있는 화이트 해커 & 악성코드 분석가 & 정보보안 컨설턴트입니다.
     
 <div align = "center">
 
