@@ -4,10 +4,12 @@
 
 - 다양한 보안 취약점과 침해사고 분석에 대해서 공부하고 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
 
-- - ## 제가 하는 해킹 분야들은 아래와 같습니다.
+- ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
   - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Mobile Hacking, Cloud Hacking, Pentesting, Forensic, Yara, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
-    
+
+- ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
+  - #### JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Perl, Ruby, Go, VB.net, ASP.net, Dart, Yara rules.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
