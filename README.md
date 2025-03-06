@@ -9,7 +9,7 @@
   - ### Reversing, Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Cloud Hacking, Pentesting, Forensic, Yara, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
-  - #### JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Perl, Ruby, Go, VB.net, ASP.net, Yara rules.
+  - #### C, Assembly, JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Perl, Ruby, Go, ASP.net, Yara rules.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
