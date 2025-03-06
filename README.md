@@ -6,10 +6,10 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Cloud Hacking, Pentesting, Forensic, Yara, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
+  - ### Webhacking, Smart Contract Hacking, Hyperledger Fabric Hacking, Cloud Hacking, Pentesting, Forensic, Zerotrust Network, IDS/IPS Security (Snort), Artificial Intelligence Security.
 
 - ### 제가 다루는 프로그래밍 언어들은 아래와 같습니다.
-  - #### C, C++, Rust, Assembly, JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Perl, Ruby, Go, ASP.net, Yara rules.
+  - #### JavaScript, Python, HTML, CSS, PHP, Java, Solidity, Perl, Ruby, Go, ASP.net, VB.net, TypeScript, Yara rules.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
