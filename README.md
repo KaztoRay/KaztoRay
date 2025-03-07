@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, White Hacker & Artificial Intelligence Programmer. 💫
+## 💫 Hi, I’m @KaztoRay, Malware Analyst & Artificial Intelligence Programmer. 💫
 
 - 다양한 악성코드 분석 및 침해사고 분석과 인공지능 보안에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 인공지능 개발자입니다.
 
