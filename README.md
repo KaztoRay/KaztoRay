@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Forensic, Cloud Hacking, Pentesting, IDS/IPS Security (Snort), Machine Learning, Deep Learning, Web Development, Artificial Intelligence Security.
+  - ### Webhacking, Smart Contract Hacking, Forensic, Cloud Hacking, Web Development, Machine Learning, Deep Learning, Artificial Intelligence Security.
 
 <div align = "center">
 
