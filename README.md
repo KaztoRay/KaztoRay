@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Artificial Intelligence Programmer. 💫
 
-- 다양한 웹 및 웹3에서 발생하는 보안 취약점과 인공지능 보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 인공지능 개발자입니다.
+- 다양한 악성코드 분석 및 침해사고 분석과 인공지능 보안에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 인공지능 개발자입니다.
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Smart Contract Hacking, Forensic, Cloud Hacking, Web Development, Machine Learning, Deep Learning, Artificial Intelligence Security.
+  - ### Reversing, Forensic, CERT, Malware Analysis, Zerotrust Network, Yara Rules, Machine Learning, Deep Learning, Artificial Intelligence Security.
 
 <div align = "center">
 
