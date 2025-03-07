@@ -6,7 +6,7 @@
 
 - ## 제가 하는 해킹 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, CERT, Malware Analysis, Zerotrust Network, Yara Rules, Machine Learning, Deep Learning, Artificial Intelligence Security.
+  - ### Reversing, Forensic, CERT, Malware Analysis, Zerotrust Network, Yara Rules, Game Hacking, Machine Learning, Deep Learning, Artificial Intelligence Security.
 
 <div align = "center">
 
