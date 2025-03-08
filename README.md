@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Reversing, Pwnable, Forensic, CERT, Malware Analysis, Zerotrust Network, Yara Rules, Game Hacking, Artificial Intelligence Security, Cryptography.
+  - ### Forensic, CERT, Malware Analysis, Reversing, Pwnable, Zerotrust Network, Yara Rules, Game Hacking, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
