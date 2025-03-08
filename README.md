@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Pwnable, Fuzzing Test, Reversing, Malware Analysis, Forensic, CERT, Yara Rules, Artificial Intelligence Security, Cryptography.
+  - ### Pwnable, Fuzzing Test, Malware Analysis, Forensic, CERT, Yara Rules, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
