@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Forensic, Reversing, Malware Analysis (System OS Security), Artificial Intelligence Security, Smart Contract Hacking, ZeroTrust Network, Network Security, Snort, Machine Learning, Deep Learning, Cryptography.
+  - ### Webhacking, Forensic, Reversing, Game Programming, Artificial Inteligence Programming, Malware Analysis (System OS Security), Artificial Intelligence Security, Smart Contract Hacking, Cryptography.
 
 <div align = "center">
 
