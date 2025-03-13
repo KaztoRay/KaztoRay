@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker, Game Propgrammer, Malware Analyst, Artificial Intelligence Security Researcher. 💫 💫
 
-- 다양한 다양한 취약점 분석, 게임 개발, 침해사고 분석, 악성코드 분석 및 인공지능 보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 게임 개발자입니다.
+- 다양한 다양한 취약점 분석, 게임 개발, 침해사고 분석, 악성코드 분석 및 인공지능 개발 및 보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 게임 개발자입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Webhacking, Forensic, Reversing, Game Programming, Artificial Inteligence Programming, Malware Analysis (System OS Security), Artificial Intelligence Security, Smart Contract Hacking, Cryptography.
+  - ### Forensic, Reversing, Webhacking, Malware Analysis (System OS Security), Game Programming, Machine Learning, Artificial Inteligence Programming, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
