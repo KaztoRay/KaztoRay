@@ -1,12 +1,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, White Hacker, Game Propgrammer, Malware Analyst, Artificial Intelligence Security Researcher. 💫 
+## 💫 Hi, I’m @KaztoRay, Malware Analyst, Game Propgrammer, Artificial Intelligence Security Researcher. 💫 
 
-- 다양한 다양한 취약점 분석, 게임 개발, 침해사고 분석, 악성코드 분석 및 인공지능 개발 및 보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 게임 개발자입니다.
+- 다양한 다양한 악성코드 분석, 게임 개발, 침해사고 분석 및 인공지능 개발 및 보안에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 게임 개발자입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Forensic, Reversing, Webhacking, Malware Analysis (System OS Security), Game Programming, Machine Learning, Artificial Inteligence Programming, Artificial Intelligence Security, Cryptography.
+  - ### Reversing, Forensic, Malware Analysis (System OS Security), Game Programming, Machine Learning, Artificial Inteligence Programming, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
