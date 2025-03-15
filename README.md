@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Reversing, Forensic, Malware Analysis (System OS Security), Game Programming, Machine Learning, Artificial Inteligence Programming, Artificial Intelligence Security, Cryptography.
+  - ### Reversing, Forensic, Malware Analysis, Game Programming, Machine Learning, Artificial Inteligence Programming, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
