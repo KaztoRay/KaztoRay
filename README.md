@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-  - ### Forensic(OS, Cloud, Registry,...), CERT, MITRE ATT&CK, Snort, Game Programming, Machine Learning, Artificial Inteligence Programming, Artificial Intelligence Security, Cryptography.
+  - ### Forensic(OS, Cloud, Registry,...), CERT, MITRE ATT&CK, Snort, Game Programming, Artificial Intelligence Security, Deep Learning / Machine Learning.
 
 <div align = "center">
 
