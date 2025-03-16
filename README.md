@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다. (최대한 많은 분야를 하려고 노력 중입니다.)
 
-  - ### Forensic(OS, Cloud, Registry,...), CERT, MITRE ATT&CK, Snort, Webhacking, Reversing, Game Programming, Smart Contract Hacking, Artificial Intelligence Security, Front-end & Back-end Development, Deep Learning / Machine Learning, Robot Programming.
+  - ### Forensic(OS, Cloud, Registry,...), CERT, MITRE ATT&CK, Snort, Webhacking, Reversing, Game Programming, Smart Contract Hacking, Artificial Intelligence Security, Front-end & Back-end Development, Deep Learning / Machine Learning, Robot Programming, Cryptography, Server Application Programming.
 
 <div align = "center">
 
