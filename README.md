@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다. 
 
-  - ### Forensic (OS, Cloud, Registry), OSINT Analysis, Game Programming, Artificial Intelligence Security, Deep Learning / Machine Learning, Cryptography, Application Programming, Cryptography.
+  - ### Forensic (OS, Cloud, Registry), OSINT Analysis, Game Programming, Artificial Intelligence Security, Deep Learning / Machine Learning, Cryptography, Application Programming.
 
 <div align = "center">
 
