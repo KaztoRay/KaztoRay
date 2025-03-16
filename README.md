@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, Forensic Researcher & Game Propgrammer. 💫 
+## 💫 Hi, I’m @KaztoRay, Forensic Researcher & Game Propgrammer & Artificial Intelligence Programmer. 💫 
 
 - 다양한 다양한 침해사고 분석, 게임 개발 및 인공지능 개발, 포렌식 도구 개발 및 포렌식에 대해서 공부하고 연구하고 있는 침해사고 분석가 (포렌식 연구가 & 게임 개발자입니다.
 
