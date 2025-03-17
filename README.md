@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, Forensic Researcher & White Hacker & Artificial Intelligence Programmer. 💫 
 
-- 다양한 다양한 침해사고 및 악성코드 분석, 취약점 분석 및 인공지능 개발을 포함한 다양한 개발 및 정보보안에 대해서 공부하고 연구하고 있는 침해사고 분석가 & 화이트 해커 & 인공지능 개발자입니다.
+- 다양한 다양한 침해사고 및 악성 행위 분석, 취약점 분석 및 인공지능 개발을 포함한 다양한 개발 및 정보보안에 대해서 공부하고 연구하고 있는 침해사고 분석가 & 화이트 해커 & 인공지능 개발자입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다. 
 
-  - ### Forensic (OS, Cloud, OSINT, Registry,...), Malware Analysis, Pwnable, Reversing, Game Hacking, Webhacking, Smart Contract Hacking, Mobile Hacking, Artificial Intelligence Security, Deep Learning / Machine Learning, Cryptography, Application Programming.
+  - ### Forensic (OS, Cloud, OSINT, Registry,...), Pwnable, Reversing, Game Hacking, Webhacking, Smart Contract Hacking, Mobile Hacking, Artificial Intelligence Security, Deep Learning / Machine Learning, Cryptography, Application Programming.
 
 <div align = "center">
 
