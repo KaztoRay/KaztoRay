@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다. 
 
-  - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Forensic, Artificial Intelligence Security, Web Fuzzing, Cloud Hacking, Smart Contract Fuzzing.
+  - ### Webhacking, Pwnable, Reversing, Smart Contract Hacking, Mobile Hacking, Game Hacking, Hardware Hacking, Forensic, Artificial Intelligence Security, Fuzzing System, Web Fuzzing, Cloud Hacking, OS System Security, Smart Contract Fuzzing.
 
 <div align = "center">
 
