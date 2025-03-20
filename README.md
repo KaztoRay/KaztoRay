@@ -4,9 +4,10 @@
 
 - 다양한 취약점 분석 및 인공지능 보안 및 다양한 정보보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 인공지능 보안 전문가 & 웹 개발자입니다.
 
-- ## 제가 공부하는 분야들은 아래와 같습니다. 
+- ## 제가 공부하는 분야들은 아래와 같습니다.
 
-- ### Webhacking, Smart Contract Hacking, Reversing, Mobile Hacking, Artificial Intelligence Security, Web Fuzzing, Smart Contract Fuzzing, Front-end / Back-end Development.
+  - ### Webhacking, Smart Contract Hacking, Pnwable, Reversing, Game Hacking, Hardware Hacking, Forensic, MITRE ATT&CK, Yara Rules, Mobile Hacking, Artificial Intelligence Security, Fuzzing System, Web Fuzzing, Cloud Hacking, Smart Contract Fuzzing, OS System Security,  Front-end / Back-end Development.
+
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
