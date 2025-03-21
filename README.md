@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-   - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Reversing, Malware Analysis, Artificial Intelligence Security, OS System Security.
+   - ### Webhacking, Smart Contract Hacking, Mobile Hacking, Forensic, Artificial Intelligence Security, OS System Security.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
