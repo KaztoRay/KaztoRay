@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-   - ### Webhacking, Mobile Hacking, Reversing, Malware Analysis, Forensic, CERT, MITRE ATT&CK, OSINT, Pentesting, Artificial Intelligence Security, Fuzzing System, Web Fuzzing, Cloud Hacking, Smart Contract Fuzzing, OS System Security,  Front-end / Back-end Development.
+   - ### Webhacking, Mobile Hacking, Reversing, Pwnable, Malware Analysis, Forensic, CERT, MITRE ATT&CK, OSINT, Pentesting, Artificial Intelligence Security, Fuzzing System, Web Fuzzing, Cloud Hacking, Smart Contract Fuzzing, OS System Security,  Front-end / Back-end Development.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
