@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-- ### Webhacking, Smart Contract Hacking, Mobile Hacking, Artificial Intelligence Security, Web Fuzzing, Cloud Hacking, Smart Contract Fuzzing, Backend / Front-end Development.
+- ### Webhacking, Smart Contract Hacking, Mobile Hacking, Artificial Intelligence Security, Web Fuzzing, Cloud Hacking, Smart Contract Fuzzing, Backend / Front-end Development, OS Security.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
