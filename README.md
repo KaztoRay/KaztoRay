@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
 
-- - ### Pwnable, Reversing, Forensic, OS Security, Memory Forensic, Webhacking, Mobile Hacking, Smart Contract Hacking, Artificial Intelligence Security, Fuzzing System, Web Fuzzing, Car Hacking, Hardware Hacking, IOT Hacking,....
+- - ### Pwnable, Reversing, Forensic, OS Security, Memory Forensic, Webhacking, Mobile Hacking, Artificial Intelligence Security, Fuzzing System, Web Fuzzing, Car Hacking, Hardware Hacking, IOT Hacking,....
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
