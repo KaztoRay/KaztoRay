@@ -7,7 +7,7 @@
 - ## 제가 공부하는 분야들은 아래와 같습니다.
    - ## Financial Security, Offensive Security,
  
-- ### Webhacking, Smart Contract Hacking, Mobile Hacking, Web Fuzzing, Smart Contract Fuzzing, Artificial Intelligence Security, Cryptography,....
+- ### Webhacking, Smart Contract Hacking, Mobile Hacking, Forensic, Web Fuzzing, Smart Contract Fuzzing, Artificial Intelligence Security, Cryptography,....
 
 <div align = "center">
 
