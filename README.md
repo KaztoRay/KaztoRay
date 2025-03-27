@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, White Hacker & Financial Security Researcher. 💫 
+## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫 
 
-- 다양한 취약점 분석 및 인공지능 보안 및 다양한 정보보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 금융 보안 전문가입니다.
+- 다양한 취약점 분석 및 인공지능 보안 및 다양한 정보보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 모의해킹 전문가입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
    - ## Financial Security, Offensive Security,
