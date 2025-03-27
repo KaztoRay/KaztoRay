@@ -5,8 +5,9 @@
 - 다양한 취약점 분석 및 인공지능 보안 및 다양한 정보보안에 대해서 공부하고 연구하고 있는 화이트 해커 & 금융 보안 전문가입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
+   - ## Financial Security, Offensive Security,
  
-- ### Webhacking, Smart Contract Hacking, Mobile Hacking, Forensic, Financial Security, Pentesting, offensive Security, Web Fuzzing, Smart Contract Fuzzing, Artificial Intelligence Security, Cryptography,....
+- ### Webhacking, Smart Contract Hacking, Mobile Hacking, Web Fuzzing, Smart Contract Fuzzing, Artificial Intelligence Security, Cryptography,....
 
 <div align = "center">
 
