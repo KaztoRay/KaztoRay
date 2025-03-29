@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Webhacking, Mobile Hacking, Forensic, Offensive Security, Web Fuzzing, Artificial Intelligence Hacking, Network Hacking, Cryptography,....
+### Webhacking, Mobile Hacking, Offensive Security, Web Fuzzing, Artificial Intelligence Hacking, Network Hacking, Cryptography,....
 
 <div align = "center">
 
