@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Reversing, Pwnable, Malware Analysis, Forensic (OS, Cloud, Registry, OSINT,...), MITRE ATT&CK Analysis, System Fuzzing, Kernel Analysis, Hardware Hacking, IOT Hacking, Car Hacking, Artificial Intelligence Security, Cryptography.
+### Reversing, Pwnable, Malware Analysis, System Fuzzing, Kernel Analysis, Hardware Hacking, Car Hacking, Artificial Intelligence Security, Cryptography.
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
