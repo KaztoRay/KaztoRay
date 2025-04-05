@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Pwnable, Reversing, Webhacking, Smart Contract Hacking, Mobile Hacking, Kernel Analysis, Game Hacking, Forensic(OS, Cloud, Memory, Registry, OSINT,...), MITRE ATT&CK Analysis, Malware Analysis, Car Hacking, Hardware Hacking, IOT Hacking, System Fuzzing, Web Fuzzing, Malware Fuzzing, Offensive Security, Financial Security, Cryptography.
+### Pwnable, Reversing, Webhacking, Smart Contract Hacking, Mobile Hacking, Kernel Analysis, Game Hacking, Car Hacking, Hardware Hacking, IOT Hacking, System Fuzzing, Web Fuzzing, Malware Fuzzing, Offensive Security, Financial Security, Cryptography.
 
 <div align = "center">
 
