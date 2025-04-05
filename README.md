@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Reversing, Malware Analysis, Forensic(OS, Memory, Cloud, Registry, OSINT, ...), MITRE ATT&CK Analysis, Yara Rules, Kernel Analysis, Game Hacking, Hardware Hacking, System Fuzzing, Malware Fuzzing, C&C Hacking, Cryptography.
+### Reversing, Malware Analysis, Forensic(OS, Memory, Cloud, Registry, OSINT, ...), MITRE ATT&CK Analysis, Yara Rules, Kernel Analysis, Game Hacking, Malware Fuzzing, C&C Hacking, Cryptography.
 
 <div align = "center">
 
