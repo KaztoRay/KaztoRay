@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, Malware Analyst & Security Threat Analyst. 💫 
 
-- 다양한 악성코드 분석과 침해사고 분석에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 침해사고 분석가입니다.
+- 다양한 악성코드 분석과 시스템 취약점 분석에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 화이트해입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Reversing, Pwnable, Malware Analysis, PE / ELF (Execute) File Analysis, Yara Rules, Game Hacking, System Fuzzing, Malware Fuzzing, Cryptography.
+### Pwnable, Reversing, Malware Analysis, Forensic (OS, Cloud, Registry, Memory, OSINT, ...), CERT, MITRE ATT&CK Analysis, Webhacking, Smart Contract Hacking, Mobile Hacking, Kernel Analysis, Yara Rules, Game Hacking, Car Hacking, Hardware Security, IOT Hacking, System Fuzzing, Web Fuzzing, Mobile App Fuzzing, Car OS Fuzzing, Hardware Fuzzing, Smart Contract Fuzzing, C&C Hacking, Pentesting, Cryptography.
 
 <div align = "center">
 
