@@ -3,10 +3,11 @@
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher & Pentester. 💫 
 
 - 다양한 취약점 분석 / 공격 기법에 대해서 공부하고 연구하고 있는 화이트 해커 & 정보보안 전문가입니다.
+  - Red Team과 Blue팀뿐만이 아닌 공격과 방어를 같이 연구하는 Purple Team을 목표로 하는 화이트해커입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Pwnable, Reversing, Malware Analysis, Forensic (OS, Cloud, Registry, Memory, OSINT, ...), CERT, MITRE ATT&CK Analysis, Webhacking, Smart Contract Hacking, Mobile Hacking, Kernel Analysis, Yara Rules, Game Hacking, Car Hacking, Hardware Security, IOT Hacking, System Fuzzing, Web Fuzzing, Mobile App Fuzzing, Hardware Fuzzing, Smart Contract Fuzzing, C&C Hacking, Pentesting, Cryptography.
+### Pwnable, Reversing, Malware Analysis, Forensic (OS, Cloud, Registry, Memory, OSINT, ...), CERT, MITRE ATT&CK Analysis, Webhacking, Smart Contract Hacking, Mobile Hacking, Kernel Analysis, Yara Rules, Game Hacking, Car Hacking, Hardware Security, IOT Hacking, System Fuzzing, Web Fuzzing, Mobile App Fuzzing, Car OS Fuzzing, Hardware Fuzzing, Smart Contract Fuzzing, C&C Hacking, Pentesting, Cryptography.
 
 <div align = "center">
 
