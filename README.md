@@ -2,11 +2,11 @@
 
 ## 💫 Hi, I’m @KaztoRay, Malware Analyst & Security Threat Analyst. 💫 
 
-- 다양한 악성코드 분석과 리버싱에 대해서 공부하고 연구하고 있는 악성코드 분석가 & 화이트해커 & 보안 위협 분석가입니다.
+- 다양한 악성코드 분석과 리버싱에 대해서 공부하고 연구하고 있는 화이트해커 & 악성코드 분석가입니다.
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Reversing, Malware Analysis, MITRE ATT&CK, PE/ELF (Execute) File Analysis, Malware Fuzzing, Yara Rules, Game Hacking, ARtificial Intelligence Security. 
+### Pwnable (Reversing), Kernel Exploit, Car Hacking, Hardware Hacking, Kernel Fuzzing, System Fuzzing, Yara Rules, Game Hacking, ARtificial Intelligence Security. 
 
 <div align = "center">
 
