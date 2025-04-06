@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Reversing, Malware Analysis, Forensic (OS, Cloud, Registry, Memory, OSINT, ...), CERT, PE / ELF (Execute) File Analysis, Yara Rules, Game Hacking, Malware Fuzzing, Cryptography.
+### Reversing, Pwnable, Malware Analysis, PE / ELF (Execute) File Analysis, Yara Rules, Game Hacking, System Fuzzing, Malware Fuzzing, Cryptography.
 
 <div align = "center">
 
