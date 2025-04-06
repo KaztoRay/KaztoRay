@@ -6,7 +6,7 @@
 
 - ## 제가 공부하는 분야들은 아래와 같습니다.
  
-### Pwnable, Reversing, DOS/Linux Kernel Analysis, Windows Exploitable, System Fuzzing, Hardware Hacking, Hardware Fuzzing, Malware Fuzzing, Yara Rules, Game Hacking, C&C Attack, Pentesting, Artificial Intelligence Security. 
+### Pwnable, Reversing, Malware Analysis, DOS/Linux Kernel Analysis, Windows Exploitable, System Fuzzing, Hardware Hacking, Hardware Fuzzing, Malware Fuzzing, Yara Rules, Game Hacking, C&C Attack, Pentesting, Artificial Intelligence Security. 
 
 <div align = "center">
 
