@@ -3,7 +3,7 @@
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫 
  
  - 다양한 웹/모바일에서 발생하는 취약점에 대해서 연구하고 공부하고 있는 화이트 해커 & 모의해킹 전문가입니다.
-   ### Webhacking, Reversing, Smart Contract Hacking, Mobile Hacking, Web Fuzzing, Mobile App Fuzzing, Artificial Intelligence Security, Offensive Security, Financial Security. 
+   ### Webhacking, Mobile Hacking, Web Fuzzing, Mobile App Fuzzing, Artificial Intelligence Security, Offensive Security, Financial Security. 
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
