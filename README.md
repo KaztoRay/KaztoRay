@@ -2,8 +2,10 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫 
  
- - 다양한 웹/모바일에서 발생하는 취약점에 대해서 연구하고 공부하고 있는 화이트 해커 & 모의해킹 전문가입니다.
-   ### Webhacking, Mobile Hacking, Web Fuzzing, Mobile App Fuzzing, Artificial Intelligence Security, Offensive Security, Financial Security. 
+ - 다양한 악성코드 및 침해사고를 분석하고 공부하고 연구하는 악성코드 분석가 & 침해사고 분석가입니다.
+
+### Reversing, Forensic, Malware Analysis, Malware Fuzzing, MITRE ATT&CK Analysis, Yara Rules, Game Hacking, C&C Analysis, Artificial Intelligence Security.  
+    
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
