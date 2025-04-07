@@ -1,10 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, Malware Analyst & Security Threat Analyst. 💫 
+## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher & Security Consultant. 💫 
  
- - 다양한 악성코드 및 침해사고를 분석하고 공부하고 연구하는 악성코드 분석가 & 침해사고 분석가입니다.
+ - 다양한 시스템 / 웹 / 모바일 / 스마트 컨트랙트 취약점 및 1day 취약점을 분석하고 공부하고 연구하는 화이트해커 & 정보보안 전문가 & 보안 컨설턴트입니다.
 
-### Reversing, Forensic, Malware Analysis, Malware Fuzzing, MITRE ATT&CK Analysis, Yara Rules, Game Hacking, C&C Analysis, Artificial Intelligence Security.  
+### Pwnable, Webhacking, Reversing, Smart Contract Hacking, Mobile Hacking, System Fuzzing, Web Fuzzing, Game Hacking, C&C Attack, Artificial Intelligence Security.  
     
 <div align = "center">
 
