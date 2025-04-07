@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher. 💫 
  
- - 다양한 OS 단에서 발생하는 각종 시스템 취약점에 대해서 공부하면서, 웹해킹 / 다양한 취약점에 대해서 연구하고 공부하고 있는 화이트 해커 & 모의해킹 전문가입니다.
+ - 다양한 웹/모바일에서 발생하는 취약점에 대해서 연구하고 공부하고 있는 화이트 해커 & 모의해킹 전문가입니다.
    ### Webhacking, Reversing, Smart Contract Hacking, Mobile Hacking, Web Fuzzing, Mobile App Fuzzing, Artificial Intelligence Security, Offensive Security, Financial Security. 
 <div align = "center">
 
