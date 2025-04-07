@@ -4,8 +4,8 @@
  
   - 다양한 악성코드 및 침해사고를 분석하고 공부하고 연구하는 악성코드 분석가 & 침해사고 분석가입니다.
 
-### Pwnable, Webhacking, Reversing, Forensic, Malware Analysis, MITRE ATT&CK Analysis, Yara Rules, Smart Contract Hacking, Mobile Hacking, System Fuzzing, Web Fuzzing, Game Hacking, C&C Attack, Artificial Intelligence Security, Cryptography.  
-    
+### Reversing, Forensic, Malware Analysis, Malware Fuzzing, MITRE ATT&CK Analysis, Yara Rules, Game Hacking, C&C Analysis, Artificial Intelligence Security.  
+
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
