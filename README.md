@@ -4,7 +4,7 @@
 
 - 다양한 시스템 / 웹 취약점 / 윈도우, 리눅스 커널 및 악성코드를 분석하고 공부하고 연구하고 있는 화이트 해커 & 보안 컨설턴트입니다.
 
-### Pwnable, Reversing, Webhacking, Malware Analysis, Game Hacking, Game Security, Kernel Exploitable, Kernel Analysis, System Fuzzing, AFL Fuzzing, Web Fuzzing, Malware Fuzzing, C&C Attack, Artificial Intelligence Security.
+### Pwnable, Reversing, Webhacking, Mobile Hacking, Malware Analysis, Game Hacking, Game Security, Kernel Exploitable, Kernel Analysis, System Fuzzing, AFL Fuzzing, Web Fuzzing, Malware Fuzzing, C&C Attack, Artificial Intelligence Security.
 
 <div align = "center">
 
