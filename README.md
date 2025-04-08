@@ -2,9 +2,9 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Malware Analyst & Security Threat Analyst & Security Consultant. 💫 
 
-- 다양한 시스템 취약점 / 악성코드 / 침해사고를 분석하고 공부하고 연구하고 있는 화이트 해커 & 악성코드 분석가 & 침해사고 전문가 & 보안 컨설턴트입니다.
+- 다양한 시스템 취약점 / 윈도우, 리눅스 커널을 분석하고 공부하고 연구하고 있는 화이트 해커 & 보안 컨설턴트입니다.
 
-### Pwnable, Reversing, Malware Analysis, Forensic (OS, Cloud, Registry, Memory, OSINT,...), MITRE ATT&CK Analysis, Yara Rules, CERT, Network Security, Game Security, Kernel Exploitable, System Fuzzing, C&C Analysis, Artificial Intelligence Security.
+### Pwnable, Reversing, Game Hacking, Network Security, Game Security, Kernel Exploitable, System Fuzzing, C&C Analysis, Artificial Intelligence Security.
 
 <div align = "center">
 
