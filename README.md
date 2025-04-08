@@ -4,7 +4,7 @@
 
   - 다양한 악성코드 및 침해사고를 분석하고 공부하고 연구하는 악성코드 분석가 & 침해사고 분석가입니다.
 
-### Reversing, Forensic(OS, Memory, Registry, Cloud, OSINT, ....), Malware Analysis, Malware Fuzzing, MITRE ATT&CK Analysis, Yara Rules, Game Hacking, C&C Analysis, Artificial Intelligence Security.  
+### Reversing, Forensic(OS, Memory, Registry, Cloud, OSINT, ....), Malware Analysis, Malware Fuzzing, CERT, MITRE ATT&CK Analysis, Yara Rules, Game Hacking, C&C Analysis, Artificial Intelligence Security.  
 
 <div align = "center">
 
