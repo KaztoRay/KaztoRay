@@ -1,10 +1,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Hi, I’m @KaztoRay, White Hacker & Pwner & Security Consultant. 💫 
+## 💫 Hi, I’m @KaztoRay, White Hacker & Malware Analyst & Security Consultant. 💫 
 
-- 다양한 시스템 취약점 / 윈도우, 리눅스 커널을 분석하고 공부하고 연구하고 있는 화이트 해커 & 보안 컨설턴트입니다.
+- 다양한 시스템 취약점 / 윈도우, 리눅스 커널 및 악성코드를 분석하고 공부하고 연구하고 있는 화이트 해커 & 보안 컨설턴트입니다.
 
-### Pwnable, Reversing, Game Hacking, Network Security, Game Security, Kernel Exploitable, System Fuzzing, C&C Analysis, Artificial Intelligence Security.
+### Pwnable, Reversing, Malware Analysis, Game Hacking, Network Security, Game Security, Kernel Exploitable, System Fuzzing, Malware Fuzzing, C&C Analysis, Artificial Intelligence Security.
 
 <div align = "center">
 
