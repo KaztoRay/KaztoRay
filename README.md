@@ -2,9 +2,9 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Researcher & Security Consultant. 💫 
 
-- 다양한 시스템 / 웹 / 모바일 / 스마트 컨트랙트 취약점 / 1day 취약점을 분석하고 공부하고 연구하고 있는 화이트해커 & 정보보안 전문가 & 보안 컨설턴트입니다.
+- 다양한 시스템 / 리버싱 / 악성코드 분석 / 1day 취약점을 분석하고 공부하고 연구하고 있는 화이트해커 & 정보보안 전문가 & 보안 컨설턴트입니다.
 
-### Pwnable, Reversing, Webhacking, Smart Contract Hacking, Mobile Hacking, DOS/Linux Kernel Analysis, Windows Exploitable, System Fuzzing, Hardware Hacking, Hardware Fuzzing, Web Fuzzing, Game Hacking, C&C Attack, Pentesting, IOT Hacking, Artificial Intelligence Security.
+### Pwnable, Reversing, Malware Analysis, Forensic, DOS/Linux Kernel Analysis, Windows Exploitable, System Fuzzing, Hardware Hacking, Game Hacking, C&C Attack, Pentesting, Artificial Intelligence Security.
 
 <div align = "center">
 
