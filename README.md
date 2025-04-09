@@ -2,9 +2,9 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Malware Analyst & Security Consultant. 💫 
 
-- 다양한 시스템 / 웹 취약점 / 리버싱 / 윈도우, 리눅스 커널 및 악성코드를 분석하고 공부하고 연구하고 있는 화이트 해커 & 보안 컨설턴트입니다.
+- 다양한 시스템 취약점 / 리버싱 / 윈도우, 리눅스 커널 및 악성코드를 분석하고 공부하고 연구하고 있는 화이트 해커 & 보안 컨설턴트입니다.
 
-### Pwnable, Webhacking, Reversing, Malware Analysis, Game Hacking, Game Security, Kernel Exploitable, Kernel Analysis, System Fuzzing, AFL Fuzzing, Web Fuzzing, Malware Fuzzing, C&C Attack, Artificial Intelligence Security.
+### Pwnable, Reversing, Malware Analysis, Webhacking, Game Hacking, Game Security, Kernel Exploitable, Kernel Analysis, System Fuzzing, AFL Fuzzing, Web Fuzzing, Malware Fuzzing, C&C Attack, Artificial Intelligence Security.
 
 <div align = "center">
 
