@@ -4,7 +4,7 @@
 
 - 다양한 웹 취약점 / 모바일 취약점 / 스마트 컨트랙 취약점 분석 및 1day 취약점을 분석하고 공부하고 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
 
-### Webhacking, Mobile Hacking, Web Fuzzing, Fuzzer Development, C&C Attack, Web (Front-end, Back-end) Development, Artificial Intelligence Security.
+### Webhacking, Mobile Hacking, Web Fuzzing, Fuzzer Development, C&C Attack, Web (Front-end, Back-end) Development, Artificial Intelligence Security, Cryptography, Web FireWall Development.
 
 <div align = "center">
 
