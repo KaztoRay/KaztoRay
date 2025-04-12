@@ -2,7 +2,7 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Consultant. 💫
 
-- 다양한 웹 취약점 / 모바일 취약점 / 스마트 컨트랙트 취약점 분석 및 1day 취약점을 분석하고 공부하고 웹 퍼저/ 모바일 앱 퍼저를 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
+- 다양한 웹 취약점 / 모바일 취약점 분석 및 1day 취약점을 분석하고 공부하고 웹 퍼저/ 모바일 앱 퍼저를 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
 
 ### Webhacking, Mobile Hacking, Web Fuzzing, Mobile App Fuzzing, Fuzzer Development, Web FireWall Development, Front-end / Backend Development, Artificial Intelligence Security, Cryptography.
 
