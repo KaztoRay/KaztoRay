@@ -2,9 +2,9 @@
 
 ## 💫 Hi, I’m @KaztoRay, White Hacker & Security Consultant. 💫
 
-- 다양한 시스템 취약점 / 모바일 앱 취약점 / 웹 취약점 분석 및 1day 취약점을 분석하고 공부하고 시스템 퍼저 / 모바일 앱 퍼저를 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
+- 다양한 시스템 취약점 / 모바일 앱 취약점 및 1day 취약점을 분석하고 공부하고 시스템 퍼저 / 모바일 앱 퍼저를 연구하고 있는 화이트 해커 & 정보보안 컨설턴트입니다.
 
-### Pwnable, OS Kernel Exploitable, Mobile Kernel Exploitable, Reversing, Mobile APP Hacking, Forensic (OS, Cloud, Registry, Memory, ....), Webhacking, Hybrid Web App Hacking, System Fuzzing, AFL Fuzzing, AFL++ Fuzzing, IOS Fuzzing, Mobile App Fuzzing, Web Fuzzing, Mobile Forensic, Fuzzer Development, Artificial Intelligence Security, Cryptography.
+### Pwnable, OS Kernel Exploitable, Mobile Kernel Exploitable, Reversing, Mobile APP Hacking, System Fuzzing, AFL Fuzzing, AFL++ Fuzzing, IOS Fuzzing, Mobile App Fuzzing, Fuzzer Development, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
