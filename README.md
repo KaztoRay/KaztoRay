@@ -4,7 +4,7 @@
 
 - 다양한 시스템 취약점 / 악성코드 분석 및 1day 취약점을 분석하고 공부하고 시스템 퍼저 / 포렌식을 연구하고 있는 화이트 해커 & 악성코드 분석가입니다.
 
-### Pwnable, Computer OS Kernel Exploitable, Mobile OS Kernel Exploitable, Reversing, Malware Analysis, Forensic (OS, Cloud, Registry, Memory, OSINT,...), System (OS) Fuzzing, AFL Fuzzing, AFL++ Fuzzing, Fuzzer Development, Artificial Intelligence Security, Cryptography.
+### Pwnable, Computer OS Kernel Exploitable, Mobile OS Kernel Exploitable, Reversing, Malware Analysis, System (OS) Fuzzing, AFL Fuzzing, AFL++ Fuzzing, Fuzzer Development, Artificial Intelligence Security, Cryptography.
 
 <div align = "center">
 
