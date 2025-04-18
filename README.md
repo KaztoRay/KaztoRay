@@ -2,7 +2,7 @@
 
 ## 💫 Kaztoray is Artificial Intelligence Programmer.(ML / DL / LLM) (Pytorch) &. MLOps Engineer. 💫
 
- - ### Pytorch, Numpy, Pandas, ML, DL, LLM, MLOps,... (Python, Java Programmer)
+ - ### Pytorch, Numpy, Pandas, ML, DL, LLM, MLOps,... (Python, C, C++, C# Programmer)
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
