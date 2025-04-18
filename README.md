@@ -1,6 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-
+## 💫 Kaztoray is Artificial Intelligence Programmer.(ML / DL / LLM) (Pytorch) &. MLOps Engineer. 💫
+ ### - Pytorch, Numpy, Pandas, ML, DL, LLM, MLOps,... (Python, Java Programmer)
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
