@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kaztoray is Artificial Intelligence Programmer.(DL / ML / LLM) &. MLOps Engineer & Game Programmer & Reversing / Forensic Researcher. 💫
+## 💫 Kaztoray is Artificial Intelligence Programmer.(DL / ML / LLM) &. MLOps Engineer & Game Programmer & Reversing Researcher. 💫
 
 <div align = "center">
 
