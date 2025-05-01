@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Security Researcher, Deep & Machine Learning Programmer, Game Programmer. 💫
-- 인공지능 보안 전문가 (딥러닝 & 머신러닝 개발자) / 게임 개발자라는 직업을 가진 Dreamer.
+## 💫 Kazto is AI Programmer (DL, ML, LLM,.. ), Game Programmer, Back-end Developer. 💫
 
+- 인공지능 개발자, 게임 프로그래머, 백엔드 개발자라는 직업을 가진 Dreamer. 
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
