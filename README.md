@@ -2,7 +2,7 @@
 
 ## 💫 Kazto is AI Programmer (DL, ML, LLM), Data Scientist, Back-End Engineer. 💫
 
-- AI 개발자, 머신러닝 엔지니어, 백엔드 개발자로 나아가는 Dreamer. - 
+- AI 백엔드 엔지니어 (AI 개발자, 머신러닝 엔지니어, 백엔드 개발자)로 나아가는 Dreamer. - 
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
