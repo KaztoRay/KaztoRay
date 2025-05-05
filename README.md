@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-💫Kazto is AI Programmer (DL, ML, LLM), Data Scientist, Prompt Engineer. 💫
+## 💫Kazto is AI Programmer (DL, ML, LLM), Data Scientist, Prompt Engineer. 💫
 
 - AI 개발자, 머신러닝 엔지니어로 나아가는 Dreamer. 
 <div align = "center">
