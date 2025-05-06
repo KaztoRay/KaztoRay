@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Programmer (DL, ML, LLM), Data Scientist, Prompt Engineer. 💫
+## 💫 Kazto is AI Programmer (DL, ML, LLM), Data Scientist, Back-End Programmer. 💫
 
-- AI 엔지니어 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어)로 나아가는 Dreamer. - 
+- AI 백엔드 엔지니어 / 연구가 (AI 개발자, 머신러닝 엔지니어, 백엔드 개발자, 프롬프트 엔지니어)로 나아가는 Dreamer. - 
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
