@@ -1,8 +1,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Programmer (DL..), FullStack Programmer, Blockchain Security Researcher, Data Scientist, Security Software Programmer. 💫
+## 💫 Kazto is AI Programmer (DL..), FullStack Programmer, Blockchain Security Researcher, Data Scientist, Forensic Researcher. 💫
 
-- AI 엔지니어 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 백엔드 개발자, 블록체인 (Web3) 보안전문가, 보안 소프트웨어 개발자로 나아가는 Dreamer. 
+- AI 엔지니어 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 백엔드 개발자, 블록체인 (Web3) 보안전문가, 포렌식 연구가로 나아가는 Dreamer. 
 <div align = "center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
