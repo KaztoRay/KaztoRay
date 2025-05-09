@@ -6,7 +6,7 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Reversing, Forensic, Smart Contract Hacking, Android Application Hacking, IOS Application Hacking, Hardware / Embedded Hacking, Cryptography.
+### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Smart Contract Hacking, Android Application Hacking, IOS Application Hacking, Webhacking, Cryptography.
  
 - AI 개발자 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 화이트 해커로 나아가는 Dreamer.
 
