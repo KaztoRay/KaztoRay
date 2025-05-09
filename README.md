@@ -1,14 +1,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Security Programmer (DL, ML, LLM,...), White Hacker (Reversing, Forensic, Smart Contract Hacking, Mobile App Hacking, Hardware, Embedded Hacking), Data Scientist. 💫 
+## 💫 Kazto is AI Programmer (DL, ML, LLM,...), White Hacker (Smart Contract Hacking, Mobile App Hacking, Cryptography), Data Scientist. 💫 
 
 <div align = "center">
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Reversing, Forensic, Smart Contract Hacking, Android Application Hacking, IOS Application Hacking, Hardware / Embedded Hacking, Cryptography.
+### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Smart Contract Hacking, Android Application Hacking, IOS Application Hacking, Cryptography.
  
-- AI 보안 개발자 / 연구가 (AI 보안 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 화이트 해커 / 정보보안 전문가로 나아가는 Dreamer.
+- AI 개발자 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 화이트 해커 / 블록체인 보안 전문가로 나아가는 Dreamer.
 
 <div align = "center">
 
