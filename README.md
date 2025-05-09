@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Programmer (DL, ML, ), Blockchain Security Researcher, Data Scientist. 
+## 💫 Kazto is AI Programmer (DL, ML, LLM, ...), Blockchain Security Researcher, Data Scientist. 
 
 ### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Smart Contract Hacking, Cryptography.
 
