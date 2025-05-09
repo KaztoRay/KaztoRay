@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Programmer, BlockChain Security Researcher, Data Scientist, cryptographer. 💫 
+## 💫 Kazto is AI Programmer, BlockChain Security Researcher, Data Scientist, Cryptographer. 💫 
 
 <div align = "center">
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
