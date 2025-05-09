@@ -2,7 +2,7 @@
 
 ## 💫 Kazto is AI Programmer (DL, ML, ), Blockchain Security Researcher, White Hacker, Data Scientist. 
 
-### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Smart Contract Hacking, Android Application Hacking, IOS Application Hacking, Reversing, Embedded / Hardware Hacking, Cryptography.
+### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Smart Contract Hacking, Android Application Hacking, IOS Application Hacking, Webhacking, Cryptography.
 
 - AI 엔지니어 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 블록체인 (Web3) 보안전문가, 화이트 해커, 모바일 보안 전문가로 나아가는 Dreamer.
 
