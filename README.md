@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Programmer, Smart Contract Security Researcher, Data Scientist, Prompt Engineer. 💫 
+## 💫 Kazto is AI Programmer, BlockChain Programmer, Smart Contract Security Researcher, Data Scientist, Prompt Engineer. 💫 
 
 <div align = "center">
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
@@ -8,7 +8,7 @@
 
 ### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Smart Contract Hacking, Cryptography.
  
-- AI 개발자 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 스마트 컨트랙트 보안 전문가로 나아가는 Dreamer.
+- AI 개발자 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어), 블록체인 개발자, 스마트 컨트랙트 보안 전문가로 나아가는 Dreamer.
 
 <div align = "center">
 
