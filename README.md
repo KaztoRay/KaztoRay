@@ -1,14 +1,14 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is AI Programmer (Deep Learning, Machine Learning, LLM), Data Scientist, Prompt Engineer. 💫 
+## 💫 Kazto is AI Programmer (Deep Learning, Machine Learning, LLM), Data Scientist, Mobile Application Programmer, AI Application Developer, Prompt Engineer. 💫 
 
 <div align = "center">
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Hyperparameter Optimization
+### Deep Learning, Machine Learning, Prompt Engineering, Sampling, Hyperparameter Optimization, Android Application Development, IOS Application Development, ...
  
-- AI 개발자 / 연구가 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어)로 나아가는 Dreamer.
+- AI 개발자 / 연구가, 모바일 어플리케이션 개발자 (AI 개발자, 머신러닝 엔지니어, 프롬프트 엔지니어)로 나아가는 Dreamer.
 
 <div align = "center">
 
