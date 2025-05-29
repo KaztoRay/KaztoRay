@@ -8,9 +8,9 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Hacking, Security Software Development, Deep Learning, Machine Learning, Prompt Engineering, Sampling, Hyperparameter Optimization, ...
+### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Hacking, Security Software Development, Infrastructure Security, Deep Learning, Machine Learning, ...
  
-- 화이트해커 / 정보보안 전문가 / AI 개발자 / 연구가로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / AI 개발자로 나아가는 Dreamer.
 
 <div align = "center">
 
