@@ -1,6 +1,6 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-## 💫 Kazto is White Hacker & Artificial Intelligence Programmer. (Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Hacking, Security Software Development, Deep Learning, Machine Learning, LLM), Data Scientist, Prompt Engineer. 💫 
+## 💫 Kazto is White Hacker & Artificial Intelligence Programmer. 💫 
 
 <div align = "center">
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
