@@ -10,7 +10,7 @@
 
 ### Pwnable, Reversing, Kernel Exploit, Embedded Hacking, Browser Hacking, Forensic, Security Software Development, Infrastructure Security, Deep Learning, Machine Learning, ...
  
-- 화이트해커 / 정보보안 전문가 / 정보보안 컨설턴트로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / 보안 취약점 연구가로 나아가는 Dreamer.
 
 <div align = "center">
 
