@@ -1,7 +1,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
 <div align = "center">
-## 💫 Kazto is White Hacker & Artificial Intelligence Programmer. 💫 
+<h2> 💫 Kazto is White Hacker & Artificial Intelligence Programmer. 💫 </h2>
 </div>
 
 <div align = "center">
