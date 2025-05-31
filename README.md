@@ -8,7 +8,7 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Pwnable, Reversing, Kernel Exploit, Browser Exploit, Embedded Hacking, Game Hacking, Malware Analysis, Forensic, Security Software Development,...
+### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Hacking, Artificial Intelligence Hacking (LLM Hacking,...), Security Software Development, Back-end Development, Front-end Development, Infra Security, Deep Learning, Machine Learning,....
  
 - 화이트해커 / 정보보안 전문가 / 보안 취약점 연구가로 나아가는 Dreamer.
 
