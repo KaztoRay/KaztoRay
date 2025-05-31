@@ -10,7 +10,7 @@
 
 ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Hacking, Security Software Development, React Secure Coding, Back-end Development, Front-end Development, Android Application Development, IOS Application Development,....
  
-- 화이트해커 / 정보보안 전문가 / 보안 취약점 연구가로 나아가는 Dreamer.
+- 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가 / 웹 앱 개발자로 나아가는 Dreamer.
 
 <div align = "center">
 
