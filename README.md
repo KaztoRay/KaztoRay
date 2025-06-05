@@ -8,7 +8,7 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Webhacking, Cloud Hacking (Docker, Kubernetes), Mobile Hacking, Cloud Infra Security (AWS, Azure, GCP), Smart Contract Hacking, Security Software Development, Secure Coding (React), Back-end Development, Front-end Development, Android & IOS Application Development,...
+### Webhacking, Cloud Hacking (Docker, Kubernetes), Mobile Hacking, Pwnable, Reversing, Forensic, Game Hacking, Cloud Infra Security (AWS, Azure, GCP), Smart Contract Hacking, Kernel Exploit, Browser Exploit, Embedded Hacking, Security Software Development, Secure Coding (React), Back-end Development, Front-end Development, Android & IOS Application Development,, Embedded Development,...
  
 - 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가 / 웹 개발자 & 보안 소프트웨어 개발자로 나아가는 Dreamer.
 
