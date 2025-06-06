@@ -10,7 +10,7 @@
 
 ### Webhacking, Cloud Hacking (Docker, Kubernetes), Mobile Hacking, Forensic, Cloud Infra Security (AWS, Azure, GCP), Smart Contract Hacking, Security Software Development, Secure Coding (React), Back-end Development, Front-end Development,...
  
-- 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가 / 웹 & 앱 & 보안 소프트웨어 개발자로 나아가는 Dreamer.
+- 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가 / 웹 & 보안 소프트웨어 개발자로 나아가는 Dreamer.
 
 <div align = "center">
 
