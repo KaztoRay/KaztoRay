@@ -8,9 +8,9 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Webhacking, Cloud Hacking (Docker, Kubernetes), Smart Contract Hacking, Forensic, Reversing, Malware Analysis, Cloud Infra Security (AWS, Azure, GCP,...), Security Software Development, Secure Coding (React), Back-end Development, Front-end Development,...
+### Webhacking, Mobile Hacking, Cloud Hacking (Docker, Kubernetes), Cloud Infra Security (AWS, Azure, GCP,...), Forensic, Security Software Development, Secure Coding (React), Back-end Development, Front-end Development, Android & IOS Application Development,...
  
-- 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가 / 포렌식 연구가 / 악성코드 분석가 / 웹 & 보안 소프트웨어 개발자로 나아가는 Dreamer.
+- 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가 / 포렌식 연구가 / 웹 & 보안 소프트웨어 개발자로 나아가는 Dreamer.
 
 <div align = "center">
 
