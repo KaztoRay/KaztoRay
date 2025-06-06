@@ -8,7 +8,7 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Webhacking, Android Application Hacking, Smart Contract Hacking, Cloud Hacking (Docker, Kubernetes), Forensic, Reversing, Malware Analysis, CERT, Machine Learning Hacking, Cloud Infra Security (AWS, Azure, GCP,...), Pwnable, Kernel Exploit, Browser Exploit, Embedded Hacking, Game Hacking, Security Software Development, Server Infra Security, Secure Coding (React), Back-end Development, Front-end Development, Deep Learning, Machine Learning, Android Application Development, Embedded Development, Cryptography, ISMS-P,...
+### Webhacking, Android Application Hacking, Smart Contract Hacking, Cloud Hacking (Docker, Kubernetes), Forensic, Reversing, Malware Analysis, CERT, Machine Learning Hacking, Cloud Infra Security (AWS, Azure, GCP,...), Pwnable, Kernel Exploit, Browser Exploit, Embedded Hacking, Game Hacking, Security Software Development, LLM Security, Server Infra Security, Secure Coding (React), Back-end Development, Front-end Development, Deep Learning, Machine Learning, Android Application Development, Embedded Development, Cryptography, ISMS-P,...
  
 - 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
    - 최대한 많은 모의 해킹 분야를 배우고 접하려고 노력하고 있습니다.
