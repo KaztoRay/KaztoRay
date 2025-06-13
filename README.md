@@ -8,7 +8,7 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Pwnable, Reversing, Webhacking, Smart Contract Hacking, Malware Analysis, Kernel Exploit, Browser Exploit, Embedded Hacking, Forensic, Artificial Intelligence Security, Security Software Development, React / Kotlin / Spring Secure Coding, Deep Learning, Machine Learning, Back-end Development, Front-end Development, Embedded Development,...
+### Pwnable, Reversing, Malware Analysis, Kernel Exploit, Browser Exploit, Embedded Hacking, Car Hacking, Forensic, Artificial Intelligence Security, Security Software Development, System Secure Coding, Deep Learning, Machine Learning, Embedded Development,...
  
 - 모의해킹 전문가 (화이트 해커) / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
    - 최대한 많은 시스템 & 하드웨어 & 커널 해킹 분야를 배우고 접하려고 노력하고 있습니다.
