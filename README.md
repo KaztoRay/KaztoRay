@@ -8,10 +8,10 @@
 <h3> 제가 하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Webhacking, Mobile Hacking, Smart Contract Hacking, Reversing, Malware Analysis, Forensic, Cloud Infra Security (AWS, Azure, GCP,...), Artificial Intelligence Security, Security Software Development, Web Secure Coding (React, Kotlin), Deep Learning, Machine Learning, Embedded Development,...
+### Pwnable, Reversing, Kernel Exploit, Browser Exploit, Embedded Hacking, Malware Analysis, Forensic, Artificial Intelligence Security, Security Software Development, System Secure Coding, Deep Learning, Machine Learning, Embedded Development,...
  
-- 모의해킹 전문가 (화이트 해커) / 악성코드 분석가 / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
-   - 최대한 많은 웹 & 웹3 & 모바일 어플리케이션 해킹 & 악성코드 분석 & 스마트 컨트랙트 해킹 & 인공지능과 같은 해킹 분야를 배우고 접하려고 노력하고 있습니다.
+- 화이트 해커 / 악성코드 분석가 / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
+   - 최대한 많은 시스템 & 운영체제 & 커널 익스플로잇 & 악성코드 분석 & 하드웨어 해킹 & 인공지능과 같은 해킹 분야를 배우고 접하려고 노력하고 있습니다.
 
 <div align = "center">
 
