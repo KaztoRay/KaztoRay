@@ -11,7 +11,7 @@
 ### Webhacking, Smart Contract Hacking, Mobile Hacking, Cloud Hacking, Cloud Infra Security, Pwnable, Kernel Exploit (Linux, Mac OS X, Windows, ...), Browser Exploit, Security Software Development, Cryptography, Web Secure Coding, System Secure Coding, Artificial Intelligence Security, Front-end Development, Back-end Development, Operator System Development,...
  
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
-   - 최대한 많은 웹 해킹 & 클라우드 해킹 & 스마트 컨트랙트 해킹 & 모바일 해킹 & 시스템 해킹 & 커널 익스플로잇 & 브라우저 해킹 등과 같은 다양한 해킹 분야를 배우고 접하려고 노력하고 있습니다.
+   - 최대한 많은 웹 해킹 &  스마트 컨트랙트 해킹 & 모바일 해킹 & 클라우드 해킹 & 시스템 해킹 & 커널 익스플로잇 & 브라우저 해킹 등과 같은 다양한 해킹 분야를 배우고 접하려고 노력하고 있습니다.
 
 <div align = "center">
 
