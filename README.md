@@ -11,7 +11,7 @@
 ### Pwnable, Reversing, Kernel Exploit (Linux, Mac OS X, Windows, ...), Malware Analysis, Forensic, Embedded Hacking, Security Software Development, Cryptography, System Secure Coding, Artificial Intelligence Security, Operator System Development, Embedded Development,...
  
 - 화이트 해커 / 모의해킹 전문가 / 악성코드 분석가 / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
-   - 최대한 많은 시스템 해킹 & 커널 익스플로잇 및 운영체제 해킹 & 악성코드 분석 & 포렌식 & 하드웨어 해킹 등과 같은 다양한 해킹 분야를 배우고 접하려고 노력하고 있습니다.
+   - 최대한 많은 시스템 해킹 & 리버싱 & 커널 익스플로잇 및 운영체제 해킹 & 악성코드 분석 & 포렌식 & 하드웨어 해킹 등과 같은 다양한 해킹 분야를 배우고 접하려고 노력하고 있습니다.
 
 <div align = "center">
 
