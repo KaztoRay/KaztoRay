@@ -5,7 +5,7 @@
 </div>
 
 <div align = "center">
-<h3> 제가 하는 분야는 아래와 같습니다. </h3>
+<h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
 </div>
 
 ### Webhacking (Cloud Based), Smart Contract Hacking, Mobile Hacking, Reversing, Pwnable, OS Kernel Exploit (Linux, Mac OS, Windows), Browser Exploit (Chrome, Edge, Safari, Whale,...),  Artificial Intelligence Security, Cloud Hacking, Cloud Infra Security, Forensic, MITRE ATT&CK Analysis, Yara Rules, Malware Analysis, Shellcode Analysis, Security Software Development, Cryptography, Web Secure Coding, Web3 Secure Coding, Mobile Secure Coding, System Secure Coding, Web Fuzzing Tool Development, OS Fuzzing Tool Development, Front-end Development, Back-end Development, Operating System Development, Mobile Security Application Development,...
