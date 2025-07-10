@@ -8,7 +8,7 @@
 <h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
 </div>
 
-### Pwnable, OS Kernel Exploit (Linux, Mac OS, Windows), Smart Contract Hacking, Artificial Intelligence Security, Forensic, MITRE ATT&CK Analysis, Yara Rules, Malware Analysis, Shellcode Analysis, Security Software Development, Cryptography, System Secure Coding, OS Fuzzing Tool Development, Operating System Development, Embedded Development,...
+### Pwnable, Reversing, OS Kernel Exploit (Linux, Mac OS, Windows), Smart Contract Hacking, Artificial Intelligence Security, Forensic, MITRE ATT&CK Analysis, Yara Rules, Malware Analysis, Shellcode Analysis, Security Software Development, Cryptography, System Secure Coding, OS Fuzzing Tool Development, Operating System Development, Embedded Development,...
  
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가로 나아가는 Dreamer.
    - 최대한 많은 시스템 및 운영체제 해킹 & 스마트 컨트랙트 해킹 & 인공지능 보안 & 포렌식 & 악성코드 분석 등과 같은 다양한 해킹 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
