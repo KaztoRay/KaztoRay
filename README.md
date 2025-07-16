@@ -1,7 +1,7 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AventurineJun&theme=algolia&column=10)](https://github.com/Luon/)
 
 <div align = "center">
-<h2> 💫 Kazto is White Hacker & Security Researcher & Security Consultant. 💫 </h2>
+<h2> 💫 AventurineJun is White Hacker & Security Researcher & Security Consultant. 💫 </h2>
 </div>
 
 <div align = "center">
@@ -15,15 +15,15 @@
 
 <div align = "center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AventurineJun&theme=holi-theme)](https://git.io/streak-stats)
 
-[![Laon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaztoRay&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Laon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AventurineJun&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaztoRay&langs_count=10&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AventurineJun&langs_count=10&hide=contribs,prs&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Laon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaztoRay&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Laon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AventurineJun&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
  
