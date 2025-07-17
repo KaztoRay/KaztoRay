@@ -10,8 +10,8 @@
 
 ### Pwnable, Reversing, OS Kernel Exploit (Windows, Linux, Mac OS,...), Malware Analysis, Webhacking, Mobile Hacking, Windows Application Hacking, Game Hacking, Firmware Hacking, Hardware Hacking, Embedded Hacking, Car Hacking, ICS Hacking, Artificial Intelligence / Machine Learning Hacking, Security Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Web Secure Coding, Web Fuzzing Tool Development, OS Fuzzing Tool Development, Operating System Development, Embedded Development, Windows OS Development, Front-end Development, Back-end Development,... 
  
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 운영체제 개발자 / 임베디드 개발자 / 윈도우 소프트웨어 개발자 / 풀스택 개발자로 나아가는 Dreamer.
-   - 최대한 많은 해킹 분야 및 다양한 운영체제 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 악성코드 분석가 / 운영체제 개발자 / 임베디드 개발자 / 윈도우 소프트웨어 개발자 / 풀스택 개발자로 나아가는 Dreamer.
+   - 최대한 많은 해킹 분야 및 다양한 운영체제 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다. 
 
 <div align = "center">
 
