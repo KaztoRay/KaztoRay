@@ -9,7 +9,7 @@
 </div>
 
 ## 주분야는 Web3와 Smart Contract Hacking, BlockChain Security / Development으로 블록체인이나 Defi로 탈중앙화와 같은 보안 및 해킹과 같은 내용에 대해서 연구하고 공부하고 있습니다.
-#### 나머지 분야는 서브로 하고 있으며, 웹3 분야에 더 완벽하게 적응하기 위해서 공부하고 노력하고 있습니다.
+#### - 나머지 분야는 서브로 하고 있으며, 웹3 분야에 더 완벽하게 적응하기 위해서 공부하고 노력하고 있습니다.
 
 ### Smart Contract Hacking, Web3 Security Software Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Cryptography, Mobile Hacking, Webhacking (Cloud Based), Pwnable, Reversing, Forensic, OS Kernel Exploit (Linux, Windows, Mac OS,...), Embedded Hacking, Hardware Hacking, Malware Analysis, Browser Exploit, MITRE ATT&CK Analysis, Yara Rules, ICS Hacking, OSINT, Pentesting, Game Hacking, Artificial Intelligence / Machine Learning Hacking, Cloud Hacking, Cloud Infra Security, Web Secure Coding, Web Fuzzing Tool Development, System Secure Coding, System Fuzzing Tool Development, OS Fuzzing Tool Development, BlockChain Development, WebAssembly Security Software Development, WebAssembly Software Development, Front-end Development, Back-end Development, Mobile Application Development, Windows Application Development, OS Kernel Development, Operating System Development, Forensic Tool Development,... 
  
