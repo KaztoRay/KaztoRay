@@ -8,7 +8,7 @@
 <h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
 </div>
 
-## 주분야는 Web3와 Smart Contract Hacking, BlockChain Security / Development으로 블록체인이나 Defi로 탈중앙화와 같은 보안 및 해킹과 같은 내용에 대해서 연구하고 공부하고 있습니다.
+## 주분야는 Web3와 Smart Contract Hacking, BlockChain Security / Development으로 블록체인이나 Defi로 탈중앙화와 같은 보안 및 해킹 및 Pwnable (OS Kernel Exploit)으로 운영체제 커널 관련 보안과 같은 내용에 대해서 연구하고 공부하고 있습니다.
 
 ### Smart Contract Hacking, Web3 (Defi) Security Software Development, Web3 (Defi) Secure Coding, Web3 (Defi) Fuzzing Tool Development, Cryptography, Pwnable, Reversing, Forensic, OS Kernel Exploit (Linux, Windows, Mac OS,...), Malware Analysis, MITRE ATT&CK Analysis, ShellCode Analysis, Yara Rules, System Secure Coding, System Fuzzing Tool Development, BlockChain Development, WebAssembly Security Software Development, OS Kernel Development, Operating System Development, Windows Software Development, WebAssembly Software Development, Web Site Development,... 
  
