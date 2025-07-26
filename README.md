@@ -12,8 +12,8 @@
 
 ### Smart Contract Hacking, Web3 (Defi) Security Software Development, Web3 (Defi) Secure Coding, Web3 (Defi) Fuzzing Tool Development, BlockChain Development, WebAssembly Security Software Development, Cryptography, Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS,...), Malware Analysis, Webhacking, Mobile Hacking, Cloud Hacking, Cloud Infra Security, Browser Exploit, Game Hacking, Embedded Hacking, Hardware Hacking, Car Hacking, Forensic, MITRE ATT&CK Analysis, Yara Rules, System Secure Coding, System Fuzzing Tool Development, Web Secure Coding, Web Fuzzing Tool Development, OS Fuzzing Tool Development, Mobile Application Development, OS Kernel Development, Operating System Development, Windows Software Development, WebAssembly Software Development, Front-end Development, Back-end Development, Artificial Intelligence / Machine Learning Security, Artificial Intelligence / Machine Learning Development, CERT, Pentesting, OSINT,... 
  
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트/ 보안 취약점 연구가 / 보안 개발자 / 블록체인 개발자 / 풀스택 개발자 / 운영체제 개발자 / 운영체제 커널 개발자 / 모바일 어플리케이션 개발자로 나아가는 Dreamer.
-  - 최대한 많은 Web3, System (OS Kernel Exploit) 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 악성코드 분석가 / 침해사고 분석가 / 보안 개발자 / 블록체인 개발자 / 풀스택 개발자 / 운영체제 개발자 / 운영체제 커널 개발자 / 모바일 어플리케이션 개발자로 나아가는 Dreamer.
+  - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
 <div align = "center">
 
