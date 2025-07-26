@@ -9,7 +9,7 @@
 </div>
 
 ## 주분야는 Web3와 Smart Contract Hacking, BlockChain Security / Development으로 블록체인이나 Defi로 탈중앙화와 같은 보안 및 해킹과 같은 내용에 대해서 연구하고 공부하고 있습니다.
-### 부분야는 Pwnable과 OS Kernel Exploit으로 시스템 커널에 대한 보안 취약점과 이상 행위를 분석하고 연구하고 있습니다.
+## - 부분야는 Pwnable과 OS Kernel Exploit으로 시스템 커널에 대한 보안 취약점과 이상 행위를 분석하고 연구하고 있습니다.
 
 ### Smart Contract Hacking, Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS,...), Web3 (Defi) Security Software Development, Web3 (Defi) Secure Coding, Web3 (Defi) Fuzzing Tool Development, BlockChain Development, WebAssembly Security Software Development, Cryptography, Embedded Hacking, Hardware Hacking, Car Hacking, System Secure Coding, System Fuzzing Tool Development, OS Fuzzing Tool Development, OS Kernel Development, Operating System Development, Windows Software Development, WebAssembly Software Development, Windows Application Development, Windows Kernel Development, DOS Kernel Development,... 
  
