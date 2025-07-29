@@ -8,9 +8,9 @@
 <h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
 </div>
 
-## 주분야는 Mobile Application Hacking과 Web3와 Smart Contract Hacking, BlockChain Security / Development으로 블록체인이나 Defi로 탈중앙화와 같은 보안 및 해킹과 같은 내용에 대해서 연구하고 공부하고 있습니다.
+## 주분야는 Web3와 Smart Contract Hacking, BlockChain Security / Development으로 블록체인이나 Defi로 탈중앙화와 같은 보안 및 해킹과 같은 내용에 대해서 연구하고 공부하고 있습니다.
 
-### Mobile Application Hacking, Smart Contract Hacking, Webhacking, Cryptography, Web3 (Defi) Security Software Development, Web3 (Defi) Secure Coding, Web3 (Defi) Fuzzing Tool Development, BlockChain Development, WebAssembly Security Software Development, Web Secure Coding, Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, WebAssembly Software Development, Front-end Development, Back-end Development, Mobile Application Development,... 
+### Smart Contract Hacking, Webhacking, Cryptography, Web3 (Defi) Security Software Development, Web3 (Defi) Secure Coding, Web3 (Defi) Fuzzing Tool Development, BlockChain Development, WebAssembly Security Software Development, Web Secure Coding, Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, WebAssembly Software Development, Front-end Development, Back-end Development, Mobile Application Development,... 
  
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 블록체인 개발자 / 풀스택 개발자 / 모바일 어플리케이션 개발자로 나아가는 Dreamer.
   - 최대한 많은 Mobile, Web3, Web 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
