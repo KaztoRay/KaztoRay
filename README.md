@@ -2,7 +2,7 @@
 <h2> 💫 Aventurine is White Hacker & Security Researcher & Security Consultant. 💫 </h2>
 </div>
 
-<div align="center">
+<div align = "center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AventurineJun&theme=algolia&column=10)](https://github.com/Luon/)
 
