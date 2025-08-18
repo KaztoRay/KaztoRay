@@ -5,6 +5,8 @@
 </div>
 
 <div align = "center">
+ [![Aventurine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AventurineJun&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
 </div>
 
@@ -38,7 +40,6 @@
 [![Laon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AventurineJun&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AventurineJun&layout=donut&langs_count=10&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Laon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AventurineJun&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
  
