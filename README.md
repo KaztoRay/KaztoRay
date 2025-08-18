@@ -16,6 +16,7 @@
 ### 🛠 Server Skills
 
 ![dell](https://img.shields.io/badge/-Dell-007DB8?logo=dell&logoColor=white&style=for-the-badge)
+![HP](https://img.shields.io/badge/-HP-0096D6?logo=dell&logoColor=white&style=for-the-badge)
 ![supermicro](https://img.shields.io/badge/-Supermicro-151F6D?logo=supermicro&logoColor=white&style=for-the-badge)
 ![huawei](https://img.shields.io/badge/-Huawei-FF0000?logo=huawei&logoColor=white&style=for-the-badge)
 ![cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
@@ -26,6 +27,7 @@
 ![pfsense](https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=for-the-badge)
 ![windowssever](https://img.shields.io/badge/-Windows%20Server-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
+![Kali Linux](https://img.shields.io/badge/-kalilinux-557C94?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
