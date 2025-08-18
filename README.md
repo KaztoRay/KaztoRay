@@ -26,9 +26,8 @@
 ![pfsense](https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=for-the-badge)
 ![windowssever](https://img.shields.io/badge/-Windows%20Server-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
-
-![kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
-![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
+![docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 
 <div align = "center">
 
