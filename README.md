@@ -1,8 +1,8 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=AventurineJun&theme=algolia&column=10)](https://github.com/Luon/)
-
 <div align = "center">
 <h2> 💫 Aventurine is White Hacker & Security Researcher & Security Consultant. 💫 </h2>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AventurineJun&theme=algolia&column=10)](https://github.com/Luon/)
 
 [![Aventurine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AventurineJun&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
