@@ -20,9 +20,10 @@
 
 <div align = "center">
 
-<h2> 제가 공부하는 분야는 아래와 같습니다. </h2>
-
+## 제가 공부하는 분야는 아래와 같습니다. 
 [![GIF](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
+
+<hr>
 
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 운영체제 개발자 / 운영체제 커널 개발자 / 자동차 보안 어플리케이션 개발자 / 풀스택 개발자 / 블록체인 개발자 / 모바일 보안 소프트웨어 개발자 / AI & ML 개발자로 나아가는 Dreamer.
   - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
