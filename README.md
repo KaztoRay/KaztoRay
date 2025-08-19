@@ -1,4 +1,7 @@
+
 <div align = "center">
+
+![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=45&color=gradient&text=Aventurine-is-WhiteHacker&animation=blinking&fontAlign=30,60&fontAlignY=35,55)
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=AventurineJun&theme=algolia&column=10)](https://github.com/Luon/)
 
