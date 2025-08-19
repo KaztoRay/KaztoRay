@@ -20,7 +20,7 @@
 
 <div align = "center">
 
-[![GIF](<img width="500" height="281" alt="image" src="https://github.com/user-attachments/assets/0288130c-da2f-452f-b3e9-69084fd05dda" />)
+[![GIF](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
 
 <h2> 제가 공부하는 분야는 아래와 같습니다. </h2>
 
