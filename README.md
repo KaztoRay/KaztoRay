@@ -20,7 +20,7 @@
 
 <div align = "center">
 
-[!](https://i.pinimg.com/originals/66/fc/60/66fc6055dd2407fffb42df9556e41005.gif)
+[![GIF](https://i.pinimg.com/originals/66/fc/60/66fc6055dd2407fffb42df9556e41005.gif)
 
 <h2> 제가 공부하는 분야는 아래와 같습니다. </h2>
 
