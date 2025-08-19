@@ -20,7 +20,7 @@
 
 <div align = "center">
 
-[![GIF-1](https://dcimg1.dcinside.com/viewimage.php?id=2abcdd23dadc31a87abad8b119&no=24b0d769e1d32ca73ceb83fa11d02831daa154921fb89570ff5edda194fdd869fd1b1cb845c6f4ca2f3f722ba3b9cfa96cd57dc5117d89a9fb2e88288a02a0674efd375fa14ae75db4108ed8dea368932583ed471649b05a6c69192eb374bb0ada61afde66)
+[![GIF](https://i.pinimg.com/originals/66/fc/60/66fc6055dd2407fffb42df9556e41005.gif)
 
 <h2> 제가 공부하는 분야는 아래와 같습니다. </h2>
 
