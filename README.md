@@ -20,7 +20,7 @@
 
 <div align = "center">
 
-[![GIF-1](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
+[![GIF-1]([https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800](https://dcimg1.dcinside.com/viewimage.php?id=2abcdd23dadc31a87abad8b119&no=24b0d769e1d32ca73ceb83fa11d02831daa154921fb89570ff5edda194fdd869fd1b1cb845c6f4ca2f3f722ba3b9cfa96cd57dc5117d89a9fb2e88288a02a0674efd375fa14ae75db4108ed8dea368932583ed471649b05a6c69192eb374bb0ada61afde66))
 
 <h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
 
