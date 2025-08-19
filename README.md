@@ -20,9 +20,12 @@
 
 <div align = "center">
 
-[![GIF-1]([https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800](https://dcimg1.dcinside.com/viewimage.php?id=2abcdd23dadc31a87abad8b119&no=24b0d769e1d32ca73ceb83fa11d02831daa154921fb89570ff5edda194fdd869fd1b1cb845c6f4ca2f3f722ba3b9cfa96cd57dc5117d89a9fb2e88288a02a0674efd375fa14ae75db4108ed8dea368932583ed471649b05a6c69192eb374bb0ada61afde66))
+[![GIF-1](https://dcimg1.dcinside.com/viewimage.php?id=2abcdd23dadc31a87abad8b119&no=24b0d769e1d32ca73ceb83fa11d02831daa154921fb89570ff5edda194fdd869fd1b1cb845c6f4ca2f3f722ba3b9cfa96cd57dc5117d89a9fb2e88288a02a0674efd375fa14ae75db4108ed8dea368932583ed471649b05a6c69192eb374bb0ada61afde66)
 
-<h3> 제가 공부하는 분야는 아래와 같습니다. </h3>
+<h2> 제가 공부하는 분야는 아래와 같습니다. </h2>
+
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 운영체제 개발자 / 운영체제 커널 개발자 / 자동차 보안 어플리케이션 개발자 / 풀스택 개발자 / 블록체인 개발자 / 모바일 보안 소프트웨어 개발자 / AI & ML 개발자로 나아가는 Dreamer.
+  - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
 ### Pwnable, Reversing, OS Kernel Exploit (Windows, Linux, Mac OS, Server OS,...), Embedded Hacking, Hardware Hacking, Browser Exploit, V8 Hacking, Car Hacking, SDV Hacking, ICS Hacking, Game Hacking, Webhacking, Mobile Hacking, Smart Contract Hacking, Defi Hacking, Cloud Hacking, Red Team (Black-Box Pentestration Testing), OSINT, Pentesting, Cloud Infra Security, Forensic, MITRE ATT&CK, Yara Rules, ShellCode Analysis, Malware Analysis, Cryptography, Artificial Intelligence Hacking, LLM Hacking, LLM Security, Artificial Intelligence Security, System Security Software Development, System Secure Coding, System (OS) Fuzzing Tool Development, OS Kernel Development, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Defi Fuzzing Tool Development, WebAssembly Security Development, Mobile Secure Coding, Artificial Intelligence Fuzzing Tool Development, Mobile Security Software Development, Operating System Development, Windows Fuzzing Tool Development, Car Security Application Development, Windows Software Development, Embedded Development, Front-end Development, Back-end Development, Smart Contract Development, Defi Development, Mobile Application Development, DeepLearning & Machine Learning,... 
 
@@ -46,7 +49,4 @@
 
 
 </div>
- 
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 운영체제 개발자 / 운영체제 커널 개발자 / 자동차 보안 어플리케이션 개발자 / 풀스택 개발자 / 블록체인 개발자 / 모바일 보안 소프트웨어 개발자 / AI & ML 개발자로 나아가는 Dreamer.
-  - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
  
