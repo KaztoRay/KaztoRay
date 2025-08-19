@@ -33,7 +33,7 @@
 
 ### Pwnable, Reversing, OS Kernel Exploit (Windows, Linux, Mac OS, Server OS,...), Embedded Hacking, Hardware Hacking, Browser Exploit, V8 Hacking, Car Hacking, SDV Hacking, ICS Hacking, Game Hacking, Webhacking, Mobile Hacking, Smart Contract Hacking, Defi Hacking, Cloud Hacking, Red Team (Black-Box Pentestration Testing), OSINT, Pentesting, Cloud Infra Security, Forensic, MITRE ATT&CK, Yara Rules, ShellCode Analysis, Malware Analysis, Cryptography, Artificial Intelligence Hacking, LLM Hacking, LLM Security, Artificial Intelligence Security, System Security Software Development, System Secure Coding, System (OS) Fuzzing Tool Development, OS Kernel Development, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Defi Fuzzing Tool Development, WebAssembly Security Development, Mobile Secure Coding, Artificial Intelligence Fuzzing Tool Development, Mobile Security Software Development, Operating System Development, Windows Fuzzing Tool Development, Car Security Application Development, Windows Software Development, Embedded Development, Front-end Development, Back-end Development, Smart Contract Development, Defi Development, Mobile Application Development, DeepLearning & Machine Learning,... 
 
-### 🛠 Server Skills
+## 🛠 Server Skills
 
 ![dell](https://img.shields.io/badge/-Dell-007DB8?logo=dell&logoColor=white&style=for-the-badge)
 ![HP](https://img.shields.io/badge/-HP-0096D6?logo=dell&logoColor=white&style=for-the-badge)
