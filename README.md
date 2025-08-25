@@ -44,7 +44,6 @@
 ![intel](https://img.shields.io/badge/-Intel-0071C5?logo=intel&logoColor=white&style=for-the-badge)
 ![amd](https://img.shields.io/badge/-Amd-ED1C24?logo=amd&logoColor=white&style=for-the-badge)
 ![vmware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
-![pfsense](https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white&style=for-the-badge)
 ![windowssever](https://img.shields.io/badge/-Windows%20Server-0078D4?logo=windows&logoColor=white&style=for-the-badge)
 ![ubuntu](https://img.shields.io/badge/-Ubuntu%20Server-E95420?logo=ubuntu&logoColor=white&style=for-the-badge)
 ![Kali Linux](https://img.shields.io/badge/-kalilinux-557C94?logo=ubuntu&logoColor=white&style=for-the-badge)
