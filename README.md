@@ -29,7 +29,7 @@
 <hr>
 
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 풀스택 개발자 / 블록체인 개발자로 나아가는 Dreamer.
-  - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+  - 최대한 많은 Web2 / Web3 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
 ### Webhacking, Smart Contract Hacking, Defi Hacking, Red Team (Black-Box Pentestration Testing), Server Infra Security, OSINT, Pentesting, Cryptography, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Defi Secure Coding, Defi Fuzzing Tool Development, Front-end Development, Back-end Development, Smart Contract Development,... 
 
