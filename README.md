@@ -28,10 +28,10 @@
 
 <hr>
 
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 풀스택 개발자 / 블록체인 보안 개발자 / 클라우드 보안 개발자로 나아가는 Dreamer.
-  - 최대한 많은 Web2 & Web3 & Cloud 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / OS 커널 개발자 / 하드웨어 보안 개발자 / 임베디드 보안 개발자로 나아가는 Dreamer.
+  - 최대한 많은 시스템 / 하드웨어 / 임베디드 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Webhacking, Smart Contract Hacking, Cloud Hacking, Cloud Infra Security, Server Infra Security, Cryptography, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Smart Contract Development, Cloud Security Software Development, Mobile Security Application Development, Front-end Development, Back-end Development,... 
+### Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS,...), Browser Exploit, Haraware Hacking, Embedded Hacking, Server Infra Security, Cryptography, Forensic, MITRE ATT&CK Analysis, Yara Rules, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Hardware Secure Coding, Haraware Fuzzing Tool Development, Embedded Secure Coding, Embedded Fuzzing Tool Development, Haraware Software Development, Embedded Software Development,... 
 
 ## 🛠 Server Skills
 
