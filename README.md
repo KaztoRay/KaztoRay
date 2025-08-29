@@ -28,10 +28,10 @@
 
 <hr>
 
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 운영체제 커널 개발자 / 운영체제 보안 소프트웨어 개발자 / 하드웨어 보안 개발자 / 임베디드 보안 개발자로 나아가는 Dreamer.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 운영체제 커널 개발자 / 운영체제 보안 소프트웨어 개발자 / 하드웨어 보안 개발자 / 임베디드 보안 개발자 / 모바일 보안 소프트웨어 개발자로 나아가는 Dreamer.
   - 최대한 많은 시스템 / 하드웨어 / 임베디드 / 자동차 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS), Malware Analysis, Forensic, MITRE ATT&CK, Yara Rules, Embedded Hacking, Hardware Hacking, ICS Hacking, Car Hacking, SDV Hacking, Server Infra Security, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Embedded Secure Coding, Embedded Fuzzing Tool Development, Hardware Application Secure Coding, Hardware Application Tool Development, OS Kernel Development, Windows Application Development, Embedded Software Development, Hardware Software Development,... 
+### Pwnable, Reversing, OS Kernel Exploit (Linux, Windows, Mac OS), Malware Analysis, Forensic, MITRE ATT&CK, Yara Rules, Embedded Hacking, Hardware Hacking, ICS Hacking, Car Hacking, SDV Hacking, Mobile Application Hacking, Server Infra Security, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Embedded Secure Coding, Embedded Fuzzing Tool Development, Hardware Application Secure Coding, Hardware Application Tool Development, OS Kernel Development, Windows Application Development, Embedded Software Development, Hardware Software Development,... 
 
 ## 🛠 Server Skills
 
