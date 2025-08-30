@@ -31,7 +31,7 @@
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 풀스택 개발자 / 모바일 보안 어플리케이션 개발자 / 인공지능 보안 개발자 / 클라우드 보안 개발자로 나아가는 Dreamer.
   - 최대한 많은 웹 / 모바일 / 클라우드 / 인공지능 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Webhacking, Black-Box Penetration Testing with PTES, Mobile Hacking, Cloud Hacking, Artificial Intelligence Hacking, Artificial Intelligence Security, Cloud Infra Security, Cryptography, Server Infra Security, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Secure Coding, Artificial Intelligence Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Front-end Development, Back-end Development, Mobile Application Development, Artificial Intelligence Development, Cloud Development,... 
+### Pwnable, Webhacking, Black-Box Penetration Testing with PTES, Mobile Hacking, Reversing, Malware Analysis, Cloud Hacking, Artificial Intelligence Hacking, Artificial Intelligence Security, Cloud Infra Security, Cryptography, Server Infra Security, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Secure Coding, Artificial Intelligence Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Front-end Development, Back-end Development, Mobile Application Development, Artificial Intelligence Development, Cloud Development,... 
 
 ## 🛠 Server Skills
 
