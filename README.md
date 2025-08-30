@@ -3,6 +3,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=HaruAventure&theme=algolia&column=10)](https://github.com/Luon/)
 
+ <h1> DeamonX Chief Executive Officer. </h1>
  <h2> 💫 HaruAventure is White Hacker & Security Researcher & Security Consultant. 💫 </h2>
  
 
@@ -28,10 +29,10 @@
 
 <hr>
 
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 풀스택 개발자 / 모바일 보안 어플리케이션 개발자 / 인공지능 보안 개발자 / 클라우드 보안 개발자로 나아가는 Dreamer.
-  - 최대한 많은 웹 / 모바일 / 클라우드 / 인공지능 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 보안 개발자 / 운영체제 커널 개발자 / 모바일 보안 어플리케이션 개발자 / 윈도우 보안 소프트웨어 개발자 / 풀스택 개발자 / 인공지능 보안 개발자 / 클라우드 보안 개발자로 나아가는 Dreamer.
+  - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Pwnable, Webhacking, Black-Box Penetration Testing with PTES, Mobile Hacking, Reversing, Malware Analysis, Cloud Hacking, Artificial Intelligence Hacking, Artificial Intelligence Security, Cloud Infra Security, Cryptography, Server Infra Security, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Secure Coding, Artificial Intelligence Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Front-end Development, Back-end Development, Mobile Application Development, Artificial Intelligence Development, Cloud Development,... 
+### Pwnable, Webhacking, Reversing, Mobile Hacking, OS Kernel Exploit (Linux, Windows, Mac OS,...), Black-Box Penetration Testing with PTES, Malware Analysis, Cloud Hacking, Artificial Intelligence Hacking, Smart Contract Hacking, Artificial Intelligence Security, Windows Software Hacking, Browser Exploit, Hardware Hacking, Embedded Hacking, ICS Hacking, Car Hacking, SDV Hacking, Cloud Infra Security (AWS, Azure, GCP,...), Forensic, MITRE ATT&CK Analysis, Yara Rules, ShellCode Analysis, Cryptography, Server Infra Security, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, System Secure Coding, System Fuzzing Tool Development, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Secure Coding, Artificial Intelligence Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Defi Secure Coding, Defi Fuzzing Tool Development, Hardware Security Tool Development, Embedded Security Software Development, OS Kernel Development, Front-end Development, Back-end Development, Mobile Application Development, Artificial Intelligence Development, Cloud Development, Hardware Development, Embedded Software Development,... 
 
 ## 🛠 Server Skills
 
