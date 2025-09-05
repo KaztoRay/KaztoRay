@@ -29,7 +29,7 @@
 
 <hr>
 
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 모바일 보안 어플리케이션 개발자 / 인공지능 보안 어플리케이션 개발자 / 운영체제 커널 개발자 / 임베디드 개발자 / 자동차 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자로 나아가는 Dreamer.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 모바일 보안 어플리케이션 개발자 / 인공지능 보안 어플리케이션 개발자 / 운영체제 커널 개발자 / 임베디드 개발자 / 자동차 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
   - 최대한 많은 시스템 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
 ### Pwnable, Reversing, Forensic, OS Kernel Exploit (Linux, Windows, Mac OS,...), Mobile Hacking, Malware Analysis, MITRE ATT&CK Analysis, ShellCode Analysis, Yara Rules, Windows Security Software Development, Hardwarer Hacking, Embedded Hacking, Hardware Security Software Development, Embedded Security Software Development, Forensic Software Development, Mobile Security Application Development, Artificial Intelligence Security Application Development, Game Securuity Software Development, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security, Cryptography, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Secure Coding, Artificial Intelligence Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Windows Software Development, Mobile Application Development, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,... 
