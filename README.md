@@ -32,7 +32,7 @@
 - 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 모바일 보안 어플리케이션 개발자 / 풀스택 개발자 / 게임 개발자로 나아가는 Dreamer.
   - 최대한 많은 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Webhacking, Mobile Hacking, Black-Box Penetration Testing with PTES, Mobile Security Application Development, Cloud Hacking, Cryptography, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Server Infra Security, Front-end Development, Back-end Development, Mobile Application Development, Artificial Intelligence Development, Cloud Development, Game Client Development (Unreal Engine), Game Server Development,... 
+### Webhacking, Mobile Hacking, Black-Box Penetration Testing with PTES, Mobile Security Application Development, Cloud Hacking, Cryptography, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Server Infra Security, Front-end Development, Back-end Development, Mobile Application Development, Game Client Development (Unreal Engine), Game Server Development,... 
 
 ## 🛠 Server Skills
 
