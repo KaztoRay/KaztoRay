@@ -29,10 +29,10 @@
 
 <hr>
 
-- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 악성코드 분석가 / 운영체제 커널 개발자 / ARM 기반 운영체제 커널 개발자 / 인공지능 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
+- 화이트 해커 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 취약점 연구가 / 악성코드 분석가 / 운영체제 커널 개발자 / 인공지능 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
   - 최대한 많은 시스템 해킹 분야 및 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Pwnable, Reversing, Forensic, OS Kernel Exploit (Linux, Windows, Mac OS,...), Artificial Intelligence OS Kernel Exploit (Linux, Windows, Mac OS,...), ARM Based System Hacking, ARM Based OS Kernel Exploit, Windows System Hacking, Glibc Based System Hacking, Malware Analysis, Artificial Intelligence Malware Analysis, MITRE ATT&CK Analysis, ShellCode Analysis, Yara Rules, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Windows Security Software Development, Forensic Software Development, Game Securuity Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Artificial Intelligence OS Kernel Fuzzing Tool Development, ARM OS Kernel Secure Coding, ARM OS Kernel Fuzzing Tool Development, Artificial Intelligence ARM OS Kernel Fuzzing Tool Development, Server Infra Security, OS Kernel Development, ARM OS Kernel Development, Artificial Intelligence Development, Windows Software Development, Game Client Development (Unreal, Unity), Game Server Development,...
+### Pwnable, Reversing, Forensic, OS Kernel Exploit (Linux, Windows, Mac OS,...), Artificial Intelligence OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows System Hacking, Glibc Based System Hacking, Malware Analysis, Artificial Intelligence Malware Analysis, MITRE ATT&CK Analysis, ShellCode Analysis, Yara Rules, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Windows Security Software Development, Forensic Software Development, Game Securuity Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Artificial Intelligence OS Kernel Fuzzing Tool Development, Artificial Intelligence ARM OS Kernel Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Software Development, Game Client Development (Unreal, Unity), Game Server Development,...
 
 
  
