@@ -3,7 +3,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=AventurineJ&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 AventurineJ is Security Engineer (BlueTeam) & Malware Analyst & Windows / Game Security Application Developer. 💫 </h1>
+ <h1> 💫 Viperazor is Cybersecurity Expert (BlueTeam) & Security Researcher & Forensic Researcher. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=AventurineJ%20is%20WhiteHacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
@@ -28,10 +28,10 @@
 
 <hr>
 
--  정보보안 전문가 / 악성코드 분석가 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자 / 인공지능 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 안티바이러스 백신 소프트웨어 개발자 / 인공지능 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
+-  정보보안 전문가 / 악성코드 분석가 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자 / 인공지능 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 안티바이러스 백신 소프트웨어 개발자 / 게임 보안 엔지니어 / 인공지능 소프트웨어 개발자로 나아가는 Dreamer.
   - 최대한 많은 리버싱 / 포렌식 분야 및 악성코드 분석 및 보안 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Reversing, Forensic, Malware Analysis, Artificial Intelligence Malware Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, ShellCode Analysis, Yara Rules, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Forensic Software Development, Game Securuity Software Development, Cryptography, DoS & DDoS Attack Analysis, Server Infra Security, Windows Software Development, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,...
+### Reversing, Forensic, Malware Analysis, Artificial Intelligence Malware Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, ShellCode Analysis, Yara Rules, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Forensic Software Development, Game Securuity Software Development, Cryptography, DoS & DDoS Attack Analysis, Server Infra Security, Windows Software Development, FireWall Software Development, Artificial Intelligence Development,,...
 
 ## 🛠 Server Skills
 
