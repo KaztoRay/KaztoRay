@@ -3,7 +3,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Viperazor&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 Viperazor is Cybersecurity Expert (BlueTeam) & Security Researcher & Forensic Researcher. 💫 </h1>
+ <h1> 💫 Viperazor is White Hacker & Cybersecurity Expert. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Viperazor%20is%20WhiteHacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
@@ -23,15 +23,7 @@
 
 <div align = "center">
 
-## 제가 공부하는 분야는 아래와 같습니다. 
 [![GIF](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
-
-<hr>
-
--  정보보안 전문가 / 악성코드 분석가 / 모바일 악성코드 분석가 / 게임 보안 소프트웨어 개발자 / 윈도우 보안 소프트웨어 개발자 / 모바일 보안 소프트웨어 개발자 / 인공지능 보안 소프트웨어 개발자 / 포렌식 소프트웨어 개발자 / 안티바이러스 백신 소프트웨어 개발자 / 게임 보안 엔지니어 / 인공지능 소프트웨어 개발자로 나아가는 Dreamer.
-  - 최대한 많은 리버싱 / 포렌식 분야 및 악성코드 분석 및 보안 개발 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
-
-### Reversing, Mobile Application Reversing, Forensic, Malware Analysis, Artificial Intelligence Malware Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, ShellCode Analysis, Yara Rules, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Windows Security Software Development, Mobile Security Application Development, Forensic Software Development, Game Securuity Software Development, Cryptography, DoS & DDoS Attack Analysis, Server Infra Security, Cloud Infra Security, Windows Software Development, Mobile Application Development, FireWall Software Development, Artificial Intelligence Development,,...
 
 ## 🛠 Server Skills
 
