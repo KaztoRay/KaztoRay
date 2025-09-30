@@ -3,7 +3,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Viperazor&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 Viperazor is White Hacker & Cybersecurity Expert. 💫 </h1>
+ <h1> 💫 Viperazor is White Hacker & Security Researcher. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Viperazor%20is%20WhiteHacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
