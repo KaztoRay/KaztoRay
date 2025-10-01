@@ -23,7 +23,15 @@
 
 <div align = "center">
 
+# 제가 공부하는 분야는 아래와 같습니다. 
 [![GIF](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
+
+<hr>
+
+- 화이트 해커 / 보안 취약점 연구가 / 모의해킹 전문가 / 악성코드 분석가 / 인공지능 보안 소프트웨어 개발자 / 보안 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
+  - 최대한 많은 시스템 해킹 분야 및 악성코드 분석 / 포렌식 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+
+### Pwnable, Reversing, Malware Analysis, Forensic, OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows System Hacking, Embedded Hacking, Hardware Hacking, MITRE ATT&CK Analysis, SIEM / SOAR Security, ShellCode Analysis, Yara Rules, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Game Securuity Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, OS Kernel Secure Coding, OS Kernel Fuzzing Tool Development, Artificial Intelligence OS Kernel Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,...
 
 ## 🛠 Server Skills
 
