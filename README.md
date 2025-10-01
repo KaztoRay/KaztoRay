@@ -12,7 +12,7 @@
 
 <div align = "center">
 
-[![KaztoJun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaztoJun&hide=contribs,prs&show_icons=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+[![Kazto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaztoJun&hide=contribs,prs&show_icons=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoJun&theme=holi-theme)](https://git.io/streak-stats)
 [![KaztoJun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaztoJun&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
