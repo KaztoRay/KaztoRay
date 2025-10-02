@@ -3,7 +3,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoJun&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 KaztoJun is White Hacker & Malware Analyst. 💫 </h1>
+ <h1> 💫 KaztoJun is Cyber Security Expert & Malware Analyst. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=KaztoJun%20is%20WhiteHacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
