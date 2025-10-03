@@ -26,6 +26,11 @@
 # 제가 하고 있는 분야는 아래와 같습니다. 
 [![GIF](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
 
+- 정보보안 전문가 / 악성코드 분석가 / 침해사고 분석가 / 정보보안 컨설턴트 / 보안 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
+  - 최대한 많은 리버싱 분야 및 악성코드 분석 / 포렌식 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+
+### Reversing, Malware Analysis, Forensic, Game Security, Network Security, DoS & DDoS Attack Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, ShellCode Analysis, Yara Rules, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Game Securuity Software Development, Cryptography, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,...
+
 <hr>
 
 ## 🛠 Server Skills
