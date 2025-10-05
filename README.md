@@ -27,9 +27,9 @@
 [![GIF](https://mblogthumb-phinf.pstatic.net/MjAxNjExMjdfMjU3/MDAxNDgwMjU0OTMwODAy.zAw8RZkgpwDUMlg1vWOoLtGBCe8AL88zUXgbR9kAsLgg.PGhslim_4qU8_E3fD9ugn5pu9lHN6oHxxfPPi_D_694g.GIF.983310/b6d8095f-2dd0-4c3d-a354-d9e2207ecbbe.gif?type=w800)
 
 - 정보보안 전문가 / 침해사고 분석가 / 악성코드 분석가 / 정보보안 컨설턴트 / 보안 소프트웨어 개발자 / 게임 서버 & 클라이언트 개발자로 나아가는 Dreamer.
-  - 최대한 많은 디지털 포렌식 분야 및 DDoS 공격 대응 / 악성코드 분석 / 리버싱 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+  - 최대한 많은 악성코드 분석 / 리버싱 / 디지털 포렌식 분야 및 DDoS 공격 대응 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Forensic, DoS & DDoS Attack Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, Yara Rules, Reversing, Malware Analysis, ShellCode Analysis, Game Security, Network Security, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Game Securuity Software Development, Cryptography, Server Infra Security, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,...
+### Reversing, Malware Analysis, ShellCode Analysis, Forensic, DoS & DDoS Attack Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, Yara Rules, Game Security, Network Security, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Game Securuity Software Development, Cryptography, Server Infra Security, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,...
 
 <hr>
 
