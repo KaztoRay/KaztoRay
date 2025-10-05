@@ -1,9 +1,9 @@
 
 <div align = "center">
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoJun&theme=algolia&column=10)](https://github.com/Luon/)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 KaztoJun is Cyber Security Expert & Malware Analyst. 💫 </h1>
+ <h1> 💫 KaztoRay is Cyber Security Expert & Malware Analyst. 💫 </h1>
  
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Kazto%20is%20Cyber%20Security%20Expert.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
@@ -12,9 +12,9 @@
 
 <div align = "center">
 
-[![Kazto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaztojun&hide=contribs,prs&show_icons=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoJun&theme=holi-theme)](https://git.io/streak-stats)
-[![KaztoJun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaztoJun&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Kazto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaztoRay&hide=contribs,prs&show_icons=true&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
+[![KaztoRay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaztoRay&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <hr>
