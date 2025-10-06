@@ -23,6 +23,8 @@
 
 <div align = "center">
 
+### Reversing, Malware Analysis, ShellCode Analysis, Forensic, DoS & DDoS Attack Analysis, MITRE ATT&CK Analysis, SIEM / SOAR Security, Yara Rules, Game Security, Network Security, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Game Securuity Software Development, Cryptography, Server Infra Security, Artificial Intelligence Development, Game Client Development (Unreal, Unity), Game Server Development,...
+
 <hr>
 
 ## 🛠 Server Skills
