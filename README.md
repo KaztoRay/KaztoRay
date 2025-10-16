@@ -29,7 +29,7 @@
 
   - 최대한 많은 블록체인 & 웹 & 클라우드 & 인공지능 해킹 분야 및 취약점 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Smart Contract Hacking, Webhacking, Black-Box Penetration Testing with PETS, Cloud Hacking (Docker, Kubernetes), Mobile Application Hacking (Android, IOS), Artificial Intelligence Hacking, LLM Hacking, Mobile Security Application Development, Artificial Intelligence Security Software Development, Cryptography, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Artificial Intelligence Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Artificial Intelligence Web3 Fuzzing Tool Development, Mobile Application Secure Coding, Mobile Application Fuzzing Tool Development, Artificial Intelligence Mobile Application Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...), Server Infra Security, Mobile Application Development, Artificial Intelligence Development, Front-end Development, Back-end Development, Smart Contract Software Development, Hyperledger Fabric Software Development,...
+### Smart Contract Hacking, Webhacking, Black-Box Penetration Testing with PETS, Cloud Hacking (Docker, Kubernetes), Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Cryptography, Web Secure Coding (React, Kotlin Spring), Web Fuzzing Tool Development, Artificial Intelligence Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Artificial Intelligence Web3 Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...), Server Infra Security, Artificial Intelligence Development, Smart Contract Software Development, Hyperledger Fabric Software Development, Front-end Development, Back-end Development,...
 
 <hr>
 
