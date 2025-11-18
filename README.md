@@ -30,7 +30,7 @@
 
 - 최대한 많은 해킹 분야 및 취약점 분석 및 해킹 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-### Pwnable, Reversing, Webhacking, Smart Contract Hacking, OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, Android Kernel Hacking, IOS Kernel Hacking, ARM Based System Hacking, V8 Exploitation, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, LLM Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development,...
+### Pwnable, Reversing, Webhacking, Black-Box Penetration Smart Contract Hacking, Defi Hacking, OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, Android Kernel Hacking, IOS Kernel Hacking, ARM Based System Hacking, V8 Exploitation, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, LLM Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Cloud Infra Security, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development,...
 
 <hr>
 
