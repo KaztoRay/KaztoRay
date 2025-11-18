@@ -25,12 +25,11 @@
 
 ## 제가 공부하는 분야는 아래와 같습니다.
 
-- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 정보보안 컨설턴트 / 보안 소프트웨어 개발자 / 운영체제 커널 개발자 / 임베디드 개발자 / 윈도우 소프트웨어 & 인공지능 개발자로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 정보보안 컨설턴트 / 악성코드 분석가 / 침해사고 분석가 / 정보보안 연구원 / 보안 소프트웨어 개발자 / 운영체제 커널 개발자 / 임베디드 개발자 / 윈도우 소프트웨어 개발자 / 풀스택 개발자 / 모바일 어플리케이션 개발자 / 블록체인 개발자 / 클라우드 개발자 / 인공지능 개발자 / 게임 클라이언트 / 서버 개발자로 나아가는 Dreamer.
 
 
 - 최대한 많은 해킹 분야 및 취약점 분석 및 해킹 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
-
-### Pwnable, Reversing, Webhacking, Black-Box Penetration Smart Contract Hacking, Defi Hacking, OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, Android Kernel Hacking, IOS Kernel Hacking, ARM Based System Hacking, V8 Exploitation, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, LLM Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Cloud Infra Security, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development,...
+### Pwnable, Reversing, Webhacking, Black-Box Penetration Smart Contract Hacking, Defi Hacking, OS Kernel Exploit (Linux, Windows, Mac OS,...), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, Android Kernel Hacking, IOS Kernel Hacking, ARM Based System Hacking, Game Security, Game Hacking, Malware Analysis, Forensic, MITRE ATT&CK Analysis, ShellCode Analysis, Yara Rules, V8 Exploitation, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Artificial Intelligence Hacking, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Mobile Security Kernel Software Development, Mobile Security Application Development, OSINT, Cryptography, System Secure Coding, System Fuzzing Tool Development, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...), Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development, Mobile Application Development, Front-end Development, Back-end Development, Cloud Software Development, TerraForm Application Development, Game Client Development, Game Server Development,...
 
 <hr>
 
