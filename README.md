@@ -25,10 +25,10 @@
 
 ## 제가 공부하는 분야는 아래와 같습니다.
 
-- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 악성코드 분석가 / 침해사고 분석가 / 풀스택 개발자 & 웹 기반 보안 소프트웨어 개발자 & 모바일 어플리케이션 개발자 & 블록체인 개발자 & 포렌식 소프트웨어 개발자로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / 모의해킹 전문가 / 풀스택 개발자 & 웹 기반 보안 소프트웨어 개발자 & 모바일 어플리케이션 개발자 & 블록체인 개발자로 나아가는 Dreamer.
 
 - 최대한 많은 해킹 분야 및 취약점 분석 및 악성 위협 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
-### Webhacking, Black-Box Penetration with PETS, Smart Contract Hacking, Reversing, Mobile Application Hacking, Malware Analysis, Forensic, Game Reversing, MITRE ATT&CK Analysis, ShellCode Analysis, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Cryptography, OSINT, Pentesting, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, TerraForm Hacking, TerraForm Security, TerraForm Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...), Kubernetes Security Audit, Server Infra Security, Artificial Intelligence Development, Forensic Tool Development, Anti-Virus Tool Development, Game Security Tool Development, Front-end Development, Back-end Development, TerraForm Development, Mobile Application Development, BlockChain Development, Smart Contract Development, Hyperledger Fabric Development,...
+### Webhacking, Black-Box Penetration with PETS, Smart Contract Hacking, Reversing, Mobile Application Hacking, Artificial Intelligence Security, LLM Security, Artificial Intelligence Security Software Development, Cryptography, OSINT, Pentesting, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, TerraForm Hacking, TerraForm Security, TerraForm Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...), Kubernetes Security Audit, Server Infra Security, Artificial Intelligence Development, Front-end Development, Back-end Development, TerraForm Development, Mobile Application Development, BlockChain Development, Smart Contract Development, Hyperledger Fabric Development,...
 
 <hr>
 
