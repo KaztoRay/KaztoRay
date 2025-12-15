@@ -3,10 +3,10 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 Ray is Malware Analyst & White Hacker & Security Researcher. 💫 </h1>
+ <h1> 💫 Ray is White Hacker & Malware Analyst & Security Researcher. 💫 </h1>
  
 
- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Ray%20is%20Malware%20Analyst.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
+ ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Ray%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
 
 </div>
 
@@ -25,11 +25,11 @@
 
 ## 제가 공부하는 분야는 아래와 같습니다.
 
-- 악성코드 분석가 / 침해사고 분석가 / 화이트해커 / 정보보안 전문가 / 윈도우 소프트웨어 개발자 / 운영체제 드라이버 개발자 (윈도우, 리눅스), 시스템 소프트웨어 개발자, 임베디드 개발자, 보안 소프트웨어 개발자로 나아가는 Dreamer.
+- 화이트해커 / 정보보안 전문가 / 악성코드 분석가 / 침해사고 분석가 / 윈도우 소프트웨어 개발자 / 운영체제 드라이버 개발자 (윈도우, 리눅스), 시스템 소프트웨어 개발자, 임베디드 개발자, 보안 소프트웨어 개발자로 나아가는 Dreamer.
   
-- 최대한 많은 악성코드 분석 및 시스템 취약점 분석 및 악성 위협 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
+- 최대한 많은 시스템 취약점 분석 및 악성코드 분석 및 악성 위협 분석 분야를 끊임없이 배우고 접하려고 노력하고 있습니다.
 
-###  Reversing, Malware Analysis, Forensic, MITRE ATT&CK Analysis, ShellCode Analysis, Pwnable, OS Kernel Exploit (Linux, Windows), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Game Hacking, ARM Based System Hacking, CERT, IOT Hacking, Car Hacking, Drone Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Artificial Intelligence Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development, Embedded Software Development, Anti-Virus Tool Development, Game Security Tool Development,...
+### Pwnable, Reversing, OS Kernel Exploit (Linux, Windows), Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Game Hacking, ARM Based System Hacking, CERT, IOT Hacking, Car Hacking, Drone Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Malware Analysis, Forensic, MITRE ATT&CK Analysis, ShellCode Analysis, Artificial Intelligence Security, Artificial Intelligence Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Server Infra Security, OS Kernel Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development, Embedded Software Development, Anti-Virus Tool Development, Game Security Tool Development,...
 
 <hr>
 
