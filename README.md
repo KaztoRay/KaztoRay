@@ -6,7 +6,7 @@
  <h1> 💫 Ray is Malware Analyst & White Hacker & Security Researcher. 💫 </h1>
  
 
- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Ray%20is%20System%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
+ ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Ray%20is%20Malware%20Analyst.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
 
 </div>
 
