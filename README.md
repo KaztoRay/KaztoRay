@@ -4,7 +4,9 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
  <h1> 💫 KaztoRay is White Hacker & Cyber Security Expert & Security Researcher. 💫 </h1>
- 
+
+ ### 💫 안녕하세요 모의 해킹 및 오펜시브 보안 분석을 공부와 연구 및 분석하고 있으며, 시스템 보안 소프트웨어 개발 및 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발, 임베디드 보안 어플리케이션 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
+
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=KaztoRay%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
  
@@ -22,9 +24,7 @@
 </div>
 
 <div align = "center">
-
-## 💫 안녕하세요 모의 해킹 및 오펜시브 보안 분석을 공부와 연구 및 분석하고 있으며, 시스템 보안 소프트웨어 개발 및 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발, 임베디드 보안 어플리케이션 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
-
+ 
 ## 제가 공부하는 분야는 아래와 같습니다.
 
 - 화이트해커 / 정보보안 전문가 / 악성코드 분석가 / 포렌식 분석가 (침해사고 분석가) / 인공지능 보안 개발자 / 윈도우 소프트웨어 개발자 / 운영체제 드라이버 개발자 (리눅스, 윈도우) / 시스템 소프트웨어 개발자 / 임베디드 개발자 (로보틱스 (메카트로닉스) 개발자) / 인공지능 개발자 / 보안 소프트웨어 개발자로 나아가는 Dreamer.    
