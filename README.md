@@ -5,7 +5,8 @@
 
  <h1> 💫 KaztoRay is White Hacker & Cyber Security Expert & Connected Car Hacking & Deep Learning / Machine Learning Security Programmer. 💫 </h1>
 
- ### 💫 안녕하세요 모의 해킹 및 오펜시브 보안 및 악성코드 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발, 임베디드 보안 어플리케이션 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
+ ### 💫 안녕하세요 모의 해킹 및 자동차 시스템 해킹과 악성코드 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발, 임베디드 보안 어플리케이션 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
+
 
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=KaztoRay%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
