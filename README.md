@@ -5,7 +5,7 @@
 
  <h1> 💫 KaztoRay is White Hacker & System Security Expert & Security Solution Developer & Software Security Researcher & ARM Based System Hacking & Game Hacking & Deep Learning / Machine Learning Security Programmer. 💫 </h1>
 
-### 💫 안녕하세요 모의 해킹 및 운영체제 및 가상 컴퓨팅 환경 (Hyper-v 등) 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석 / 적대적 AI 공격 분석 및 게임 해킹 & 분석 분야를 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발, 임베디드 보안 어플리케이션 등을 개발하고 있는 정보보안 전문가 & 인공지능 보안 전문가 KaztoRay입니다. 💫
+### 💫 안녕하세요 모의 해킹 및 운영체제 및 가상 컴퓨팅 환경 (Hyper-v 등) 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석 / 적대적 AI 공격 분석 및 게임 해킹 & 분석 분야를 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발, 임베디드 보안 어플리케이션 등을 개발하고 있는 정보보안 전문가 & 인공지능 보안 전문가 KaztoRay입니다. 💫
 
 
 
