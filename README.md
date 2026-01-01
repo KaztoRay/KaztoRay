@@ -3,7 +3,7 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h1> 💫 KaztoRay is White Hacker & System Security Expert & OS Kernel Bug Hunter & Connected Car Security Expert & Security Solution Developer & Software Security Researcher & ARM Based System Hacking & Game Hacking & Deep Learning / Machine Learning Security Programmer. 💫 </h1>
+ <h2> 💫 KaztoRay is White Hacker & System Security Expert & OS Kernel Bug Hunter & Connected Car Security Expert & Security Solution Developer & Software Security Researcher & ARM Based System Hacking & Game Hacking & Deep Learning / Machine Learning Security Programmer. 💫 </h2>
 
 ### 💫 안녕하세요 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석과 자동차 시스템 보안 (모빌리티 시스템 보안) (임베디드 시스템 보안) / 운영체제 관련 0day, 1day 취약점 분석 & Fuzzing / 적대적 AI 공격 분석 및 게임 해킹 분야를 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 & 임베디드 기반 소프트웨어 및 운영체제 등을 개발하고 있는 정보보안 전문가 & 인공지능 보안 전문가 KaztoRay입니다. 💫
 
