@@ -5,7 +5,7 @@
 
  <h2> 💫 System Hacker (x86-64, ARM), Connected Car Hacker, Web3 (Defi) Hacker, Game Vulnerability Hacker, CTF Player, 0day & 1day Researcher, Bug Hunter. 💫 </h2>
 
-### 💫 안녕하세요 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석과 자동차 시스템 보안 / 운영체제 관련 0day, 1day 취약점 분석 & Fuzzing / Web3 해킹 (Defi Hacking) / 적대적 AI 공격 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발 & 게임 해킹 & 임베디드 기반 소프트웨어 및 운영체제 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
+### 💫 안녕하세요 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석과 자동차 시스템 보안 / 운영체제 관련 0day, 1day 취약점 분석 & Fuzzing / Web3 해킹 (Defi Hacking) & Web2 + Mobile Application 해킹 / 적대적 AI 공격 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발 & 게임 해킹 & 임베디드 기반 소프트웨어 및 운영체제 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
 
 
 
@@ -26,11 +26,7 @@
 
 <div align = "center">
  
-## 제가 공부하는 분야는 아래와 같습니다.
-
-- 화이트해커 / 정보보안 전문가 / 운영체제 및 가상 컴퓨팅 환경 (Hyper-V) 취약점 분석가 / 스마트 컨트랙트 보안 취약점 분석가 / 자동차 시스템 보안 전문가 / 인공지능 보안 전문가 / 인공지능 보안 개발자 / 운영체제 드라이버 개발자 (리눅스, 맥, 윈도우) / 운영체제 개발자 / 시스템 소프트웨어 개발자 / 인공지능 개발자 / 보안 소프트웨어 개발자, 임베디드 운영체제 & 하드웨어 개발자로 나아가는 Dreamer.    
-
-### Pwnable, Reversing, Malware Analysis, Smart Contract Hacking, Defi Hacking, OS Kernel Exploit (Linux, Windows,...), OS 0day & 1day Vulnerability Analysis, Connected Car Hacking, Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, ARM Based System Hacking, Hyper-V Machine Hacking, Hyper-V Infra Hacking, CPU Vulnerability Hacking, Game Hacking, APT Attack, Network Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Firmware Hacking, IOT Hacking, ICS Hacking, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Machine Learning based Security Software Development, Deep Learning based Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Mac OS Security Kernel Software Development, Cryptography, OSINT, Pentesting, System Secure Coding, System Fuzzing Tool Development, Machine Learning based Secure Coding, Machine Learning based Fuzzing Tool Development, Deep Learning based Secure Coding, Deep Learning based Fuzzing Tool Development, Server Infra Security, Artificial Intelligence Development, Machine Learning Development, Deep Learning Development, LLM Development (LangChain), NLP Development, OS Kernel Development, Yocto based Embedded Linux Development, Embedded Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development, Linux Software Development, Mac OS Software Development, Network Programming, Smart Contract Programming, Hyperledger Fabric Programming, BlockChain Programming,.....
+- 화이트해커 / 정보보안 전문가 / 운영체제 및 가상 컴퓨팅 환경 (Hyper-V) 취약점 분석가 / 스마트 컨트랙트 보안 취약점 분석가 / 자동차 시스템 보안 전문가 / 인공지능 보안 전문가 / 인공지능 보안 개발자 / 운영체제 드라이버 개발자 (리눅스, 맥, 윈도우) / 운영체제 개발자 / 시스템 소프트웨어 개발자 / 인공지능 개발자 / 보안 소프트웨어 개발자, 임베디드 운영체제 & 하드웨어 개발자 / 풀스택 개발자 / 모바일 어플리케이션 개발자로 나아가는 Dreamer.
 
 ## 🛠 Server Skills
 
