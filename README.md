@@ -5,7 +5,7 @@
 
  <h2> 💫 System Hacker (x86-64, ARM), Connected Car Hacker, Web3 (Defi) Hacker, Game Vulnerability Hacker, CTF Player, 0day & 1day Researcher, Bug Hunter. 💫 </h2>
 
-### 💫 안녕하세요 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석과 자동차 시스템 보안 / 운영체제 관련 0day, 1day 취약점 분석 & Fuzzing / Web3 해킹 (Defi Hacking) & Web2 + Mobile Application 해킹 / 적대적 AI 공격 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발 & 게임 해킹 & 임베디드 기반 소프트웨어 및 운영체제 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
+### 💫 안녕하세요 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석과 자동차 시스템 보안 / 운영체제 관련 0day, 1day 취약점 분석 & Fuzzing / Web3 해킹 (Defi Hacking) 해킹 / 적대적 AI 공격 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝을 이용한 보안 소프트웨어 개발 & 게임 해킹 & 임베디드 기반 소프트웨어 및 운영체제 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
 
 
 
