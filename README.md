@@ -5,10 +5,6 @@
 
  <h2> 💫 System Hacker (x86-64, ARM), Connected Car Hacker, AI Developer, AI Security Engineer, LLM Engineer, Game Vulnerability Hacker, CTF Player, 0day & 1day Researcher, Bug Hunter. 💫 </h2>
 
-### 💫 안녕하세요 시스템 해킹 및 ARM 기반 시스템 커널 취약점 분석과 자동차 시스템 보안 / 운영체제 관련 0day, 1day 취약점 분석 & Fuzzing / AI 기반 해킹과 보안, 적대적 AI 공격 분석을 공부하고 있으며, 시스템 보안 소프트웨어 개발 및 딥러닝과 머신러닝, 강화학습 및 LLM을 이용한 보안 소프트웨어 개발 & 게임 해킹 & 임베디드 기반 소프트웨어 및 운영체제 등을 개발하고 있는 정보보안 전문가 KaztoRay입니다. 💫
-
-
-
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=KaztoRay%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
  
  </div>
@@ -21,12 +17,6 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <hr>
-
-</div>
-
-- 제가 공부하는 분야는 아래와 같습니다.
-  ### Pwnable, Reversing, Malware Analysis, OS Kernel Exploit (Linux, Windows,...), OS 0day & 1day Vulnerability Analysis, Connected Car Hacking, Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, ARM Based System Hacking, Hyper-V Machine Hacking, Hyper-V Infra Hacking, CPU Vulnerability Hacking, Game Hacking, APT Attack, Network Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Firmware Hacking, IOT Hacking, ICS Hacking, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Machine Learning based Security Software Development, Deep Learning based Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Mac OS Security Kernel Software Development, Cryptography, System Secure Coding, System Fuzzing Tool Development, Machine Learning based Secure Coding, Machine Learning based Fuzzing Tool Development, Deep Learning based Secure Coding, Deep Learning based Fuzzing Tool Development, Server Infra Security, Artificial Intelligence Development, Machine Learning Development, Deep Learning Development, LLM Development (LangChain), NLP Development, OS Kernel Development, Yocto based Embedded Linux Development, Embedded Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development, Linux Software Development, Network Programming,.....
-
 <div align = "center">
  
 ## 🛠 Server Skills
