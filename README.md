@@ -24,6 +24,9 @@
 
 </div>
 
+- 제가 공부하는 분야는 아래와 같습니다.
+  ### Pwnable, Reversing, Malware Analysis, Smart Contract Hacking, Defi Hacking, OS Kernel Exploit (Linux, Windows,...), OS 0day & 1day Vulnerability Analysis, Connected Car Hacking, Windows Kernel Hacking, Windows Driver Hacking, Linux Kernel Hacking, Linux Driver Hacking, Mac OS Kernel Hacking, Mac OS Driver Hacking, ARM Based System Hacking, Hyper-V Machine Hacking, Hyper-V Infra Hacking, CPU Vulnerability Hacking, Game Hacking, APT Attack, Network Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Firmware Hacking, IOT Hacking, ICS Hacking, Artificial Intelligence Hacking, LLM Hacking, Artificial Intelligence Security Software Development, Machine Learning based Security Software Development, Deep Learning based Security Software Development, Windows Security Kernel Software Development, Linux Security Kernel Software Development, Mac OS Security Kernel Software Development, Cryptography, OSINT, Pentesting, System Secure Coding, System Fuzzing Tool Development, Machine Learning based Secure Coding, Machine Learning based Fuzzing Tool Development, Deep Learning based Secure Coding, Deep Learning based Fuzzing Tool Development, Server Infra Security, Artificial Intelligence Development, Machine Learning Development, Deep Learning Development, LLM Development (LangChain), NLP Development, OS Kernel Development, Yocto based Embedded Linux Development, Embedded Development, Artificial Intelligence Development, Windows Kernel Software Development, Windows Software Development, Linux Software Development, Network Programming, Smart Contract Programming, Hyperledger Fabric Programming, BlockChain Programming,.....
+
 <div align = "center">
  
 ## 🛠 Server Skills
