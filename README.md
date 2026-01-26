@@ -3,7 +3,8 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
- <h2> 💫 White Hacker, Connected Car Hacker, AI Developer, AI Security Researcher, Game Vulnerability Hacker, CTF Player, Bug Hunter. 💫 </h2>
+ <h2> 💫 White Hacker, AI Developer, AI Security Researcher, FullStack Developer, Game Vulnerability Hacker, CTF Player, Bug Hunter. 💫
+</h2>
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=KaztoRay%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
  
