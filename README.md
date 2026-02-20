@@ -3,10 +3,10 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=KaztoRay&theme=algolia&column=10)](https://github.com/Luon/)
 
-<h2> 💫 System Hacker (x86-64, ARM Architecture,...), CTF Player 💫
+<h2> 💫 All Rounder, CTF Player 💫
 </h2>
 
- ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Kazto%20is%20System%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
+ ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Kazto%20is%20All%20Rounder.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
  
  </div>
 
@@ -19,10 +19,6 @@
 
 <hr>
 <div align = "center">
-
-## 제가 공부하는 분야는 아래와 같습니다. 
-
-### Pwnable, Reversing, OS Kernel Exploit (Linux, Windows,...), Malware Analysis, OS 0day & 1day Vulnerability Analysis, Connected Car Hacking, Drone Hacking, AeroSpace Hacking, ROS2 Hacking, ROS1 Hacking, ARM Based System Hacking, Hyper-V Machine Hacking, Hyper-V Infra Hacking, CPU Vulnerability Hacking, Network Hacking, Glibc Based System Hacking, Embedded Hacking, Hardware Hacking, Firmware Hacking, IOT Hacking, ICS Hacking, Artificial Intelligence Hacking, LLM Hacking, Forensic, MITRE ATT&CK Analysis, Yara Rules, ShellCode Analysis, Cryptography, System Secure Coding, System Fuzzing Tool Development, Machine Learning based Fuzzing Tool Development, Deep Learning based Fuzzing Tool Development, Artificial Intelligence Development, Machine Learning Development, Deep Learning Development, OS Kernel Development, Yocto based Embedded Linux Development, Embedded Development, Windows Kernel Software Development, Windows Software Development, Linux Software Development, Network Programming, ROS2 Development, ROS1 Development,..... 
 
 </div>
  
