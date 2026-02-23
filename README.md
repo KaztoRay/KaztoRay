@@ -20,6 +20,10 @@
 <hr>
 <div align = "center">
 
+## 제가 공부하는 분야는 아래와 같습니다.
+
+### Webhacking, Black-Box Penetration Testing with PETS, Smart Contract Hacking, Artificial Intelligence Model Development, LLM Model Development, Artificial Intelligence Hacking, LLM Hacking, Machine Learning based Security Software Development, Deep Learning based Security Software Development, Network Hacking, Cryptography, Web Secure Coding, Web Fuzzing Tool Development, Web3 Secure Coding, Web3 Fuzzing Tool Development, Cloud Secure Coding, Cloud Fuzzing Tool Development, Cloud Infra Security (AWS, Azure, GCP,...) Kubernetes Security Audit, Server Infra Security, Machine Learning Development, Deep Learning Development, NLP Development, Front-end Development, Back-end Development, Smart Contract Development, Hyperledger Fabric Development,.....
+
 </div>
  
 ## 🛠 Server Skills
