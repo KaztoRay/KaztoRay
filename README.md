@@ -11,6 +11,8 @@
 
 ![Kazto's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaztoray&show_icons=true&theme=blue_navy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaztoray&layout=donut-vertical&theme=blue_navy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KaztoRay&theme=holi-theme)](https://git.io/streak-stats)
 [![Kazto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaztoRay&theme=react-dark&border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
