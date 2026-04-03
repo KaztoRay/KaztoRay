@@ -1,7 +1,7 @@
 
 <div align = "center">
 
-<h2> 💫 White Hacker, Game Vulnerability Researcher, CTF Player.  💫 </h2>
+<h2> 💫 System Hacker(X86-64, ARM, MIPS,...), Game Vulnerability Researcher, OS Kernel Programmer, OS Kernel Security Driver Programmer, CTF Player. 💫  💫 </h2>
 
  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=Kazto%20is%20White%20Hacker.&fontSize=60&color=0:8871e5,100:358cd8&stroke=358cd8)
  
